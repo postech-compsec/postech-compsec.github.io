@@ -31,7 +31,7 @@ their daily lives.
 
 ## News
 
-- **[02/01/2024]** Computer Security Lab @POSTECH is established!
+- **[Feb 01, 2024]** Computer Security Lab @POSTECH is established!
 <!-- - [Installation]({{ '/docs/installation/' | relative_url }}) -->
 <!-- - [Configuration]({{ '/docs/configuration/' | relative_url }}) -->
 <!-- - [Markdown]({{ '/docs/markdown/' | relative_url }}) -->
