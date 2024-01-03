@@ -8,6 +8,8 @@ permalink: /
 
 ![compseclab](/assets/theme/images/compsec-text.png)
 
+## Computer Security Lab at POSTECH
+
 Our research group focuses on addressing **cybersecurity challenges** across various interdisciplinary domains.
 Our primary objective is to enhance the security and robustness of a wide spectrum of computer systems,
 ranging from traditional software and Operating Systems to emerging systems such as
@@ -22,6 +24,9 @@ existing systems,
 Ultimately, our overarching goal is to make practical impacts on the
 cyber-physical safety of individuals who rely on computer-based systems in
 their daily lives.
+
+**NOTE:** If you are interested in working with us,
+      please contact [Seulbae](mailto:seulbae.kim@gmail.com) with your CV.
 
 
 ## News
