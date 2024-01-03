@@ -31,7 +31,7 @@ description: Template for team page.
     </p>
     <p class="my-1">{{ paper.author | replace: " and ", ", " }}</p>
     {% if paper.abbrev %}
-    <p class="my-1"><strong>{{ paper.abbrev }}</strong>: In <i>proceedings of the {{ paper.venue }}</i></p>
+    <p class="my-1 text-conf"><strong>{{ paper.abbrev }}</strong>: In <i>proceedings of the {{ paper.venue }}</i></p>
     {% else %}
       <p class="my-1">{{ paper.venue }}</p>
     {% endif %}
