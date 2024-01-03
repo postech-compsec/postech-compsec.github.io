@@ -1,0 +1,54 @@
+---
+layout: default
+description: Template for team page.
+---
+
+{% if page.team and site.data[page.people] %}
+  {% assign people = site.data[page.people] %}
+{% elsif site.data.people %}
+  {% assign people = site.data.people %}
+{% endif %}
+
+{{ content }}
+
+{% assign pubs = site.data.publications | group_by: "year" | uniq %}
+{% assign untitled = true %}
+{% for year_group in pubs %}
+  {% assign year_int = year_group.name | plus: 0 %}
+  {% if year_int < 2024 %}
+    {% if untitled == true %}
+      <h3>Before 2024</h3>
+      {% assign untitled = false %}
+    {% endif %}
+  {% else %}
+    <h3>{{ year_group.name }}</h3>
+  {% endif %}
+
+  {% for paper in year_group.items %}
+  <div class="publication lh-sm">
+    <p class="h5 my-1">
+      {{ paper.title }}
+    </p>
+    <p class="my-1">{{ paper.author | replace: " and ", ", " }}</p>
+    {% if paper.abbrev %}
+    <p class="my-1"><strong>{{ paper.abbrev }}</strong>: In <i>proceedings of the {{ paper.venue }}</i></p>
+    {% else %}
+      <p class="my-1">{{ paper.venue }}</p>
+    {% endif %}
+    <p class="my-1">
+      {% if paper.file %}
+        {% assign paper_url = "assets/publications/" | append: paper.file | append: ".pdf" | relative_url %}
+        {% assign slides_url = "assets/publications/" | append: paper.file | append: "-slides.pdf" | relative_url %}
+        <a href="{{ paper_url }}"><i class="fa-regular fa-file-lines"></i> paper</a>
+        &nbsp;&nbsp;
+        <a href="{{ slides_url }}"><i class="fa-regular fa-file-powerpoint"></i> slides</a>
+        &nbsp;&nbsp;
+      {% endif %}
+      {% if paper.code %}
+      <a href="{{ paper.code }}"><i class="fa-regular fa-file-code"></i> code</a>
+      {% endif %}
+    </p>
+  </div>
+  {% endfor %}
+
+{% endfor %}
