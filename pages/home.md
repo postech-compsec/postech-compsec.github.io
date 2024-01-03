@@ -6,7 +6,7 @@ header: none
 permalink: /
 ---
 
-![compseclab](/assets/theme/images/compsec-text.png)
+![compseclab](/assets/logo/compsec-text.png)
 
 ## Computer Security Lab at POSTECH
 
