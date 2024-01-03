@@ -1,0 +1,79 @@
+---
+layout: default
+description: Template for team page.
+---
+
+{% if page.team and site.data[page.people] %}
+  {% assign people = site.data[page.people] %}
+{% elsif site.data.people %}
+  {% assign people = site.data.people %}
+{% endif %}
+
+{{ content }}
+
+
+<h3>Group Leaders</h3>
+
+<div class="d-flex flex-wrap">
+{% for member in people.leaders %}
+  <a href="{{ member.site | relative_url }}" class="text-dark">
+    <div class="team-member">
+      <div class="flex-shrink-0 me-3">
+        {% if member.image %}
+          <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+        {% endif %}
+        <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0">
+          {{ member.name }}
+        </p>
+        <p class="text-muted text-center">{{ member.role }}</p>
+      </div>
+    </div>
+  </a>
+{% endfor %}
+</div>
+
+
+<h3>Students</h3>
+
+<div class="d-flex flex-wrap">
+{% for member in people.students %}
+  <a href="{{ member.site | relative_url }}" class="text-dark">
+    <div class="team-member">
+      <div class="flex-shrink-0 me-3">
+        {% if member.image %}
+          <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+        {% endif %}
+        <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0">
+          {{ member.name }}
+        </p>
+        <p class="text-muted text-center">{{ member.role }}</p>
+      </div>
+    </div>
+  </a>
+{% endfor %}
+</div>
+
+
+
+{% if people.alumni %}
+  <hr>
+  <h3>Alumni</h3>
+
+  <div class="d-flex flex-wrap">
+  {% for member in people.alumni %}
+    <a href="{{ member.site | relative_url }}" class="text-dark">
+      <div class="team-member">
+        <div class="flex-shrink-0 me-3">
+          {% if member.image %}
+            <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+          {% endif %}
+          <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0">
+            {{ member.name }}
+          </p>
+          <p class="text-muted text-center">{{ member.role }}</p>
+        </div>
+      </div>
+    </a>
+  {% endfor %}
+  </div>
+{% endif %}
