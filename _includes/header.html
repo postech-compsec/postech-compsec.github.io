@@ -1,5 +1,6 @@
 {% comment %}background is defined in head.html{% endcomment %}
 {% if page.header == 'none' %}
+  <div style="height:2em; width:100%; clear:both;"></div>
 {% else %}
   {% if background %}
     <header class="header bg-image" style="background-image: url('{{ background | relative_url }}')">
