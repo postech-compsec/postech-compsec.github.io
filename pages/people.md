@@ -6,8 +6,8 @@ permalink: /people/
 ---
 
 {:.alert .alert-warning}
-🔍 Join our team!
-We are looking for ambitious students
+🔍 Explore exciting opportunities with our team!
+We are looking for creative and ambitious students
 who are interested in
     general cybersecurity,
     cyber-physical systems,
@@ -15,4 +15,6 @@ who are interested in
     hacking,
     <!-- ML, AI, -->
     and software engineering.
+Please feel free to reach out to us at EMAIL
+to pitch and discuss your ideas.
 
