@@ -4,8 +4,8 @@
   href: /
 - text: People
   href: /people/
-- text: Projects
-  href: /projects/
+# - text: Projects
+  # href: /projects/
 - text: Publications
   href: /publications/
 - text: Teaching
