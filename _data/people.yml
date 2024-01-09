@@ -4,6 +4,11 @@ leaders:
   image: assets/people/seulbae.jpg
   site: https://seulbae-security.github.io
 
+- name: Sangdon Park
+  role: Assistant Professor
+  image: assets/people/sangdon.jpg
+  site: https://sangdon.github.io/
+
 # students:
 # - name: John Doe
   # role: Ph.D.
