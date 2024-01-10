@@ -1,3 +1,13 @@
+- title: "ACon²: Adaptive Conformal Consensus for Provable Blockchain Oracles"
+  author: Sangdon Park and Osbert Bastani and Taesoo Kim
+  venue: 32nd USENIX Security Symposium
+  abbrev: Security 2023
+  year: 2023
+  month: August
+  loc: Anaheim, CA, USA
+  file: "park:acon2"
+  code: "https://github.com/sslab-gatech/ACon2"
+
 - title: "RoboFuzz: Fuzzing Robotic Systems over Robot Operating System (ROS) for Finding Correctness Bugs"
   author: Seulbae Kim and Taesoo Kim
   venue: 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
