@@ -13,7 +13,7 @@ who are interested in
     cyber-physical systems,
     operating systems,
     hacking,
-    <!-- ML, AI, -->
+    ML, AI,
     and software engineering.
 Please feel free to reach out to us at EMAIL
 to pitch and discuss your ideas.
