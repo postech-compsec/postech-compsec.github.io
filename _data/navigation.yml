@@ -4,15 +4,15 @@
   href: /
 - text: People
   href: /people/
-# - text: Projects
-  # href: /projects/
 - text: Publications
   href: /publications/
 - text: Teaching
   href: /teaching/
+- text: Research
+  href: /research/
 - text: About
   href: /about/
-# - text: Blog
+# - text: blog
   # href: /blog/
 # - text: Documentation
   # menu: # Dropdown menu (one level deep only)
