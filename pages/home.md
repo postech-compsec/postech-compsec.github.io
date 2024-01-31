@@ -10,6 +10,9 @@ permalink: /
 
 ## Computer Security Lab at POSTECH
 
+> "Practical cyber-physical security:
+> We hack, we patch, we secure real-world systems."
+
 Our research group focuses on addressing **cybersecurity challenges**
 across diverse interdisciplinary domains.
 Our primary goal is to enhance the security and robustness
@@ -31,7 +34,9 @@ the cyber-physical safety of individuals who rely on computer-based systems
 in their daily lives.
 
 **NOTE:** If you are interested in working with us,
-      please contact [Seulbae](mailto:seulbae.kim@gmail.com) with your CV.
+      please contact [Seulbae](mailto:seulbae.kim@gmail.com)
+      with your CV and details about the projects or ideas
+      you would like to work on.
 
 
 ## News
