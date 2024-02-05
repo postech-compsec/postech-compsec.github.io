@@ -7,5 +7,6 @@ permalink: /teaching/
 
 ## Teaching
 
-* **[Spring 2024]** TBD
+* **[Spring 2024]**
+  * Seulbae - [CSED415: Computer Security](#)
 
