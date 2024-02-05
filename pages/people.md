@@ -11,10 +11,10 @@ We are looking for creative and ambitious students
 who are interested in
     general cybersecurity,
     cyber-physical systems,
+    robotics,
     operating systems,
-    hacking,
-    ML, AI,
-    and software engineering.
-Please feel free to reach out to us at EMAIL
+    hacking, and
+    ML/AI.
+Please feel free to reach out to us at [email](seulbae@postech.ac.kr)
 to pitch and discuss your ideas.
 
