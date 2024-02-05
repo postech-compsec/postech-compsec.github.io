@@ -15,6 +15,6 @@ who are interested in
     operating systems,
     hacking, and
     ML/AI.
-Please feel free to reach out to us at [email](seulbae@postech.ac.kr)
+Please feel free to reach out to us at [email](mailto:seulbae@postech.ac.kr)
 to pitch and discuss your ideas.
 
