@@ -83,7 +83,35 @@ Can we somehow skip the slow part for testing purposes?
 
 ---
 
-### Target: AI/ML security
+### Target: AI/ML Security
 * Lead: Prof. Sangdon Park
+* Subject systems: Generative AI, Robot AI
 
+###### 1. Find vulnerabilites of Generative AI!
+* Can we find prompts of Large Language Models (LLMs) to generate sensitive information?
+* You can fill the rest with me!
+
+###### 2. Secure Generative AI via ML!
+* Can we unlearn sensitive information from LLMs?
+* You can fill the rest with me!
+
+###### 3. Find vulnerabilites of Robot AI!
+* Can we find adverarial attacks to drive robots to unsafe states?
+* You can fill the rest with me!
+
+###### 4. Secure Robot AI via ML!
+* Can we learn individual AI for securing Robot AI?
+* You can fill the rest with me!
+
+
+---
+
+### Target: Code
+* Lead: Prof. Sangdon Park
+* Subject systems: many program code
+  
+###### 1. Find vulnerabilites of code using LLMs!
+* Can we learn LLMs to find vulnerability of code and patch the code?
+* You can fill the rest with me!
+* 
 <!-- TODO: sangdon -->
