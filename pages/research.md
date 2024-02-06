@@ -7,8 +7,8 @@ permalink: /research/
 
 {:.alert .alert-warning}
 🔬 Let's break some systems together!
-Our potential research directions are listed on this page for your reference.
-Please reach out to us at EMAIL for further details.
+Our potential research directions are listed on this page for your reference
+and you can reach out to us to learn more.
 Also, feel free to BYOI (Bring Your Own Ideas) - your input is highly valued!
 
 ## General direction
