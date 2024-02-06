@@ -11,10 +11,10 @@ permalink: /about/
   * POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang-Si, Gyeongbuk, South Korea
 
 * Seulbae's office
-  * 인공지능연구원 434호
-  * Room 434, PIAI building
+  * [인공지능연구원](https://naver.me/5LufTsC9) 434호
+  * Room 434, [PIAI building](https://maps.app.goo.gl/nBKS22Tfh6Wg4akL6)
 
 * Sangdon's office
-  * RIST 4409호
-  * Room 4409, RIST building
+  * [RIST](https://naver.me/xUFafZH2) 4409호
+  * Room 4409, [RIST building](https://maps.app.goo.gl/oNxy2d8T9vA5qHEu6)
 
