@@ -7,7 +7,7 @@ baseurl: ""                   # Only required if your site is in a directory e.g
 
 # SOCIAL PROFILES
 social:
-  email: name@example.com
+  email: seulbae@postech.ac.kr
   # twitter: peterdesmet
   github: postech-compsec               # Can also be a github_username/repository
   # mastodon: https://mastodon.social/@mastodon_username
