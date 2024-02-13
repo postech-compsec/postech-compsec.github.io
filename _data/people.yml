@@ -9,7 +9,7 @@ leaders:
   image: assets/people/sangdon.jpg
   site: https://sangdon.github.io/
 
-# students:
+students:
 - name: Minjae Gwon
   role: M.S.
   image: assets/people/minjae.jpg
