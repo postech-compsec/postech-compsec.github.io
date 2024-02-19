@@ -17,10 +17,10 @@ Our research group focuses on addressing **cybersecurity challenges**
 across diverse interdisciplinary domains.
 Our primary goal is to enhance the security and robustness
 of a wide spectrum of computer systems,
-ranging from traditional software and operating systems
+ranging from `traditional software` and `operating systems`
 to emerging systems such as
-Cyber-Physical Systems (e.g., drones, autonomous vehicles, satellite systems)
-and Artificial Intelligence systems.
+`Cyber-Physical Systems` (e.g., drones, autonomous vehicles, satellite systems)
+and `Artificial Intelligence systems`.
 
 Our research methodology encompasses various approaches,
 including, but not limited to:
