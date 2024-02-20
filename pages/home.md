@@ -41,6 +41,7 @@ in their daily lives.
 
 ## News
 
+- **[Feb 13, 2024]** Minjae joins CompSec Lab. Welcome aboard!
 - **[Feb 01, 2024]** Computer Security Lab @POSTECH is established!
 <!-- - [Installation]({{ '/docs/installation/' | relative_url }}) -->
 <!-- - [Configuration]({{ '/docs/configuration/' | relative_url }}) -->
