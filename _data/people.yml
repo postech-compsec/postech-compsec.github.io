@@ -15,6 +15,13 @@ students:
   image: assets/people/minjae.png
   site: https://bxta.kr/
 
+students:
+- name: Namgyu Park
+  role: M.S+Ph.D.
+  image: assets/people/namgyu.png
+  site: #
+
+
 # - name: John Doe
   # role: Ph.D.
   # image: assets/people/john.jpg
