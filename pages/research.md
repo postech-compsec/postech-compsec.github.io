@@ -13,7 +13,7 @@ Also, feel free to BYOI (Bring Your Own Ideas) - your input is highly valued!
 
 ## General direction
 
-![img](/assets/img/direction.png)
+![img](/assets/img/direction-en.jpg)
 
 ---
 
