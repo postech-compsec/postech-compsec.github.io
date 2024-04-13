@@ -6,6 +6,8 @@ permalink: /about/
 
 ## Location
 
+![img](/assets/img/postech-2024.jpg)
+
 * POSTECH
   * 대한민국 경상북도 포항시 남구 청암로 77 포항공과대학교
   * POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang-Si, Gyeongbuk, South Korea
