@@ -9,8 +9,8 @@ permalink: /about/
 ![img](/assets/img/postech-2024.jpg)
 
 #### Pohang University of Science and Technology (POSTECH)
-  * 대한민국 경상북도 포항시 남구 청암로 77 포항공과대학교
-  * POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang-Si, Gyeongbuk, South Korea
+  * 대한민국 경상북도 포항시 남구 청암로 77 포항공과대학교 (우: 37673)
+  * POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang-Si, Gyeongbuk, South Korea (Zip: 37673)
 
 #### Lab Space - Currently under renovation!
   * [포항공대 인공지능연구원](https://naver.me/5cTdNyMx) 441호
