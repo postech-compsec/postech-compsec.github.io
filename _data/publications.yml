@@ -6,6 +6,7 @@
   month: August
   loc: Anaheim, CA, USA
   file: "park:acon2"
+  slides: "park:acon2-slides"
   code: "https://github.com/sslab-gatech/ACon2"
 
 - title: "RoboFuzz: Fuzzing Robotic Systems over Robot Operating System (ROS) for Finding Correctness Bugs"
@@ -16,6 +17,7 @@
   month: November
   loc: Singapore
   file: "kim:robofuzz"
+  slides: "kim:robofuzz-slides"
   code: "https://github.com/sslab-gatech/robofuzz"
 
 - title: "DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing"
@@ -26,6 +28,7 @@
   month: November
   loc: Los Angeles, CA, USA
   file: "kim:drivefuzz"
+  slides: "kim:drivefuzz-slides"
   code: "https://gitlab.com/s3lab-code/public/drivefuzz"
 
 - title: "Riding the IoT Wave with VFuzz: Discovering Security Flaws in Smart Home"
@@ -44,6 +47,7 @@
   month: May
   loc: Virtual
   file: "woo:centris"
+  slides: "woo:centris-slides"
   code: "https://github.com/WOOSEUNGHOON/Centris-public"
 
 - title: "Finding Bugs in File Systems with an Extensible Fuzzing Framework"
@@ -61,6 +65,7 @@
   month: October
   loc: Ontario, Canada
   file: "kim:hydra"
+  slides: "kim:hydra-slides"
   code: "https://github.com/sslab-gatech/hydra"
 
 - title: "Software systems at risk: An empirical study of cloned vulnerabilities in practice"
@@ -78,6 +83,7 @@
   month: May
   loc: San Jose, CA, USA
   file: "kim:vuddy"
+  slides: "kim:vuddy-slides"
   code: "https://github.com/squizz617/vuddy"
 
 - title: "SIGMATA: Storage Integrity Guaranteeing Mechanism against Tampering Attempts for Video Event Data Recorders"
@@ -88,4 +94,5 @@
   month: March
   loc: Orlando, FL, USA
   file: "kwon:sigmata"
+  slides: "kwon:sigmata-slides"
 

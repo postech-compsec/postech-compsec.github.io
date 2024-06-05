@@ -38,9 +38,11 @@ description: Template for team page.
     <p class="my-1">
       {% if paper.file %}
         {% assign paper_url = "assets/publications/" | append: paper.file | append: ".pdf" | relative_url %}
-        {% assign slides_url = "assets/publications/" | append: paper.file | append: "-slides.pdf" | relative_url %}
         <a href="{{ paper_url }}"><i class="fa-regular fa-file-lines"></i> paper</a>
         &nbsp;&nbsp;
+      {% endif %}
+      {% if paper.slides %}
+        {% assign slides_url = "assets/publications/" | append: paper.slides | append: ".pdf" | relative_url %}
         <a href="{{ slides_url }}"><i class="fa-regular fa-file-powerpoint"></i> slides</a>
         &nbsp;&nbsp;
       {% endif %}
