@@ -41,9 +41,11 @@ in their daily lives.
 
 ## News
 
-- **[Feb 29, 2024]** Namgyu joins CompSec Lab. Welcome aboard!
-- **[Feb 13, 2024]** Minjae joins CompSec Lab. Welcome aboard!
+- **[Jun 17, 2024]** Chiheon, Selim, Kihyun, and Young Seo have joined CompSec Lab. as undergrad interns. Welcome aboard!
+- **[Feb 29, 2024]** Namgyu has joined CompSec Lab. Welcome aboard!
+- **[Feb 13, 2024]** Minjae has joined CompSec Lab. Welcome aboard!
 - **[Feb 01, 2024]** Computer Security Lab @POSTECH is established!
+
 <!-- - [Installation]({{ '/docs/installation/' | relative_url }}) -->
 <!-- - [Configuration]({{ '/docs/configuration/' | relative_url }}) -->
 <!-- - [Markdown]({{ '/docs/markdown/' | relative_url }}) -->
