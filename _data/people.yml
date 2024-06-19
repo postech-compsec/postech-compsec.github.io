@@ -20,6 +20,27 @@ students:
   image: assets/people/namgyu.jpg
   site: #
 
+interns:
+- name: Chiheon Kim
+  role: Undergrad intern
+  image: assets/people/chiheon.jpg
+  site: #
+
+- name: Kihyun Park
+  role: Undergrad intern
+  image: assets/people/kihyun.jpg
+  site: #
+
+- name: Selim Oh
+  role: Undergrad intern
+  image: assets/people/default.png
+  site: #
+
+- name: Youngseo Seo
+  role: Undergrad intern
+  image: assets/people/default.png
+  site: #
+
 
 # - name: John Doe
   # role: Ph.D.
