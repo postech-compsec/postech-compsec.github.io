@@ -41,6 +41,15 @@ interns:
   image: assets/people/default.png
   site: #
 
+- name: Jeongwon Ha
+  role: Visiting undergrad intern
+  image: assets/people/default.png
+  site: #
+
+- name: Minki Lee
+  role: Visiting undergrad intern
+  image: assets/people/default.png
+  site: #
 
 # - name: John Doe
   # role: Ph.D.

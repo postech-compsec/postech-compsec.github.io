@@ -41,6 +41,7 @@ in their daily lives.
 
 ## News
 
+- **[Jun 24, 2024]** Jeongwon and Minki have joined CompSec Lab. as visiting undergrad interns. Welcome aboard!
 - **[Jun 17, 2024]** Chiheon, Selim, Kihyun, and Young Seo have joined CompSec Lab. as undergrad interns. Welcome aboard!
 - **[Feb 29, 2024]** Namgyu has joined CompSec Lab. Welcome aboard!
 - **[Feb 13, 2024]** Minjae has joined CompSec Lab. Welcome aboard!
