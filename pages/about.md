@@ -4,7 +4,7 @@ header: none
 permalink: /about/
 ---
 
-## Location
+## **Location**
 
 ![img](/assets/img/postech-2024.jpg)
 

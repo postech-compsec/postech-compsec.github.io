@@ -17,11 +17,11 @@ description: Template for team page.
   {% assign year_int = year_group.name | plus: 0 %}
   {% if year_int < 2024 %}
     {% if untitled == true %}
-      <h3>Before 2024</h3>
+      <h3 class="fw-bold">Before 2024</h3>
       {% assign untitled = false %}
     {% endif %}
   {% else %}
-    <h3>{{ year_group.name }}</h3>
+    <h3 class="fw-bold">{{ year_group.name }}</h3>
   {% endif %}
 
   {% for paper in year_group.items %}

@@ -12,7 +12,7 @@ description: Template for team page.
 {{ content }}
 
 
-<h3>Group Leaders</h3>
+<h3 class="fw-bold">Group Leaders</h3>
 
 <div class="d-flex flex-wrap">
 {% for member in people.leaders %}
@@ -33,7 +33,7 @@ description: Template for team page.
 </div>
 
 
-<h3>Students</h3>
+<h3 class=fw-bold>Students</h3>
 
 <div class="d-flex flex-wrap">
 {% for member in people.students %}
@@ -54,7 +54,7 @@ description: Template for team page.
 </div>
 
 {% if people.interns %}
-<h3>Interns</h3>
+<h3 class=fw-bold>Interns</h3>
 
 <div class="d-flex flex-wrap">
 {% for member in people.interns %}
@@ -78,7 +78,7 @@ description: Template for team page.
 
 {% if people.alumni %}
   <hr>
-  <h3>Alumni</h3>
+  <h3 class=fw-bold>Alumni</h3>
 
   <div class="d-flex flex-wrap">
   {% for member in people.alumni %}
