@@ -8,7 +8,7 @@ permalink: /teaching/
 ## **Teaching**
 
 #### Fall 2024
-* Seulbae - [CSED702C: Binary Analysis and Exploitation](#)
+* Seulbae - [CSED702C: Binary Analysis and Exploitation](/teaching/csed702c/2024fa)
 
 #### Spring 2024
 * Seulbae - [CSED415: Computer Security](/teaching/csed415/2024sp)
