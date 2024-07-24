@@ -35,7 +35,7 @@ in their daily lives.
 
 **NOTE:** If you are interested in working with us,
       please contact [Seulbae](mailto:seulbae@postech.ac.kr) or [Sangdon](https://sangdon.github.io/)
-      with your CV and details about the projects or ideas
+      with your **CV**, **transcript**, and details about the projects or ideas
       you would like to work on.
 
 
