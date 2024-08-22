@@ -41,6 +41,7 @@ in their daily lives.
 
 ## News
 
+- **[Aug 11, 2024]** Chiheon achieved 9th place as team Cold Fusion at the DEF CON 32 CTF Finals. Congratulations!
 - **[Jun 24, 2024]** Jeongwon and Minki have joined CompSec Lab. as visiting undergrad interns. Welcome aboard!
 - **[Jun 17, 2024]** Chiheon, Selim, Kihyun, and Young Seo have joined CompSec Lab. as undergrad interns. Welcome aboard!
 - **[Feb 29, 2024]** Namgyu has joined CompSec Lab. Welcome aboard!
