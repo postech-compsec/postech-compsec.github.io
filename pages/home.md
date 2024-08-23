@@ -41,12 +41,13 @@ in their daily lives.
 
 ## News
 
-- **[Aug 11, 2024]** Chiheon achieved 9th place as team Cold Fusion at the DEF CON 32 CTF Finals. Congratulations!
-- **[Jun 24, 2024]** Jeongwon and Minki have joined CompSec Lab. as visiting undergrad interns. Welcome aboard!
-- **[Jun 17, 2024]** Chiheon, Selim, Kihyun, and Young Seo have joined CompSec Lab. as undergrad interns. Welcome aboard!
-- **[Feb 29, 2024]** Namgyu has joined CompSec Lab. Welcome aboard!
-- **[Feb 13, 2024]** Minjae has joined CompSec Lab. Welcome aboard!
-- **[Feb 01, 2024]** Computer Security Lab @POSTECH is established!
+- **<tt>[2024/08/23]</tt>** Jongsoo have joined CompSec Lab. Welcome aboard!
+- **<tt>[2024/08/11]</tt>** Chiheon achieved 9th place as team Cold Fusion at the DEF CON 32 CTF Finals. Congratulations!
+- **<tt>[2024/06/24]</tt>** Jeongwon and Minki have joined CompSec Lab. as visiting undergrad interns. Welcome aboard!
+- **<tt>[2024/06/17]</tt>** Chiheon, Selim, Kihyun, and Young Seo have joined CompSec Lab. as undergrad interns. Welcome aboard!
+- **<tt>[2024/02/29]</tt>** Namgyu has joined CompSec Lab. Welcome aboard!
+- **<tt>[2024/02/13]</tt>** Minjae has joined CompSec Lab. Welcome aboard!
+- **<tt>[2024/02/01]</tt>** Computer Security Lab @POSTECH is established!
 
 <!-- - [Installation]({{ '/docs/installation/' | relative_url }}) -->
 <!-- - [Configuration]({{ '/docs/configuration/' | relative_url }}) -->

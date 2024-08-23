@@ -10,6 +10,11 @@ leaders:
   site: https://sangdon.github.io/
 
 students:
+- name: Jongsoo Han
+  role: M.S.
+  image: assets/people/jongsoo.jpg
+  site: #
+
 - name: Minjae Gwon
   role: M.S.
   image: assets/people/minjae.png
