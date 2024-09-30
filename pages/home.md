@@ -41,6 +41,7 @@ in their daily lives.
 
 ## News
 
+- **<tt>[2024/09/30]</tt>** Taeyeon have joined CompSec Lab as an undergrad intern. Welcome aboard!
 - **<tt>[2024/09/08]</tt>** Team CompSec (Chiheon, Minki, Kihyun, and Taeyeon)
     advances to the <a href="http://www.hackthedrone.org/index.php">Hack the DRONE 2024</a> Finals!
 - **<tt>[2024/08/23]</tt>** Jongsoo have joined CompSec Lab. Welcome aboard!
