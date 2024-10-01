@@ -1,4 +1,4 @@
-leaders:
+Group Leaders:
 - name: Seulbae Kim
   role: Assistant Professor
   image: assets/people/seulbae.jpg
@@ -9,60 +9,65 @@ leaders:
   image: assets/people/sangdon.jpg
   site: https://sangdon.github.io/
 
-students:
+Students:
 - name: Jongsoo Han
   role: M.S.
+  since: Fall 2024
   image: assets/people/jongsoo.jpg
   site: #
 
 - name: Minjae Gwon
   role: M.S.
+  since: Spring 2024
   image: assets/people/minjae.png
   site: https://bxta.kr/
 
 - name: Namgyu Park
   role: M.S+Ph.D.
+  since: Spring 2024
   image: assets/people/namgyu.jpg
   site: #
 
-interns:
+Interns:
 - name: Chiheon Kim
   role: Undergrad intern
+  since: Summer 2024
   image: assets/people/chiheon.jpg
   site: #
 
 - name: Kihyun Park
   role: Undergrad intern
+  since: Summer 2024
   image: assets/people/kihyun.jpg
   site: #
 
 - name: Selim Oh
   role: Undergrad intern
+  since: Summer 2024
   image: assets/people/selim.jpg
   site: #
 
 - name: Youngseo Seo
   role: Undergrad intern
+  since: Summer 2024
   image: assets/people/default.png
-  site: #
-
-- name: Jeongwon Ha
-  role: Visiting undergrad intern
-  image: assets/people/jeongwon.jpg
   site: #
 
 - name: Minki Lee
   role: Visiting undergrad intern
+  since: Summer 2024
   image: assets/people/minki.jpg
   site: https://github.com/leeminki02
 
-# - name: John Doe
-  # role: Ph.D.
-  # image: assets/people/john.jpg
-  # site: #
+- name: Taeyeon Kim
+  role: Undergrad intern
+  since: Fall 2024
+  image: assets/people/default.png
+  site: #
 
-# alumni:
-# - name: Jane Doe
-  # role: first_job
-  # image: #
-  # site: #
+Alumni:
+- name: Jeongwon Ha
+  role: Visiting undergrad intern
+  since: Summer 2024
+  image: assets/people/jeongwon.jpg
+  site: #

@@ -11,90 +11,30 @@ description: Template for team page.
 
 {{ content }}
 
-
-<h3 class="fw-bold">Group Leaders</h3>
-
-<div class="d-flex flex-wrap">
-{% for member in people.leaders %}
-  <a href="{{ member.site | relative_url }}" class="text-dark">
-    <div class="team-member">
-      <div class="flex-shrink-0 me-3">
-        {% if member.image %}
-          <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
-        {% endif %}
-        <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0">
-          {{ member.name }}
-        </p>
-        <p class="text-muted text-center">{{ member.role }}</p>
-      </div>
-    </div>
-  </a>
-{% endfor %}
-</div>
-
-
-<h3 class=fw-bold>Students</h3>
-
-<div class="d-flex flex-wrap">
-{% for member in people.students %}
-  <a href="{{ member.site | relative_url }}" class="text-dark">
-    <div class="team-member">
-      <div class="flex-shrink-0 me-3">
-        {% if member.image %}
-          <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
-        {% endif %}
-        <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0">
-          {{ member.name }}
-        </p>
-        <p class="text-muted text-center">{{ member.role }}</p>
-      </div>
-    </div>
-  </a>
-{% endfor %}
-</div>
-
-{% if people.interns %}
-<h3 class=fw-bold>Interns</h3>
-
-<div class="d-flex flex-wrap">
-{% for member in people.interns %}
-  <a href="{{ member.site | relative_url }}" class="text-dark">
-    <div class="team-member">
-      <div class="flex-shrink-0 me-3">
-        {% if member.image %}
-          <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
-        {% endif %}
-        <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0">
-          {{ member.name }}
-        </p>
-        <p class="text-muted text-center">{{ member.role }}</p>
-      </div>
-    </div>
-  </a>
-{% endfor %}
-</div>
+{% for category in people %}
+{% if category[0] == "Alumni" %}
+<hr>
 {% endif %}
+<h3 class="fw-bold mt-2">{{ category[0] }}</h3>
 
-
-{% if people.alumni %}
-  <hr>
-  <h3 class=fw-bold>Alumni</h3>
-
-  <div class="d-flex flex-wrap">
-  {% for member in people.alumni %}
-    <a href="{{ member.site | relative_url }}" class="text-dark">
-      <div class="team-member">
-        <div class="flex-shrink-0 me-3">
-          {% if member.image %}
-            <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
-          {% endif %}
-          <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0">
-            {{ member.name }}
-          </p>
-          <p class="text-muted text-center">{{ member.role }}</p>
-        </div>
+<div class="d-flex flex-wrap">
+{% for member in category[1] %}
+  <a href="{{ member.site | relative_url }}" class="text-dark">
+    <div class="team-member">
+      <div class="flex-shrink-0 me-3">
+        {% if member.image %}
+          <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+        {% endif %}
+        <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0">
+          {{ member.name }}
+        </p>
+        <p class="text-muted text-center mb-0">{{ member.role }}</p>
+        {% if member.since %}
+        <p class="fw-light small text-center">{{ member.since }}</p>
+        {% endif %}
       </div>
-    </a>
-  {% endfor %}
-  </div>
-{% endif %}
+    </div>
+  </a>
+{% endfor %}
+</div>
+{% endfor %}
