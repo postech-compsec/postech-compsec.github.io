@@ -43,7 +43,7 @@ in their daily lives.
 
 ## News
 
-- **<tt>[2025/01/06]</tt>** Jangseop, Kyungmin, Dongwan, Hanbee, Hyunsoo, and Jaeyoung have joined CompSec Lab. as undergrad interns. Welcome aboard!
+- **<tt>[2025/01/06]</tt>** Jangseop, Kyungmin, Dongwan, Hanbi, Hyunsoo, and Jaeyoung have joined CompSec Lab. as undergrad interns. Welcome aboard!
 - **<tt>[2024/10/30]</tt>** Chiheon, Minki, Kihyun, and Taeyeon won a "Tech Award"
     (한국드론혁신협회장상) at <a href="http://www.hackthedrone.org/index.php">Hack the DRONE 2024</a> Finals as Team CompSec!
 - **<tt>[2024/09/30]</tt>** Taeyeon have joined CompSec Lab as an undergrad intern. Welcome aboard!
