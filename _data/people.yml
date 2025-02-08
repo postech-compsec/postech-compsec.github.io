@@ -96,15 +96,15 @@ Interns:
   site: #
 
 Alumni:
-- name: Jeongwon Ha
-  role: Visiting undergrad intern
-  since: Summer 2024
-  image: assets/people/jeongwon.jpg
-  site: #
-
 - name: Namgyu Park
   role: Samsung SDS
   since: Ph.D. (2025)
   image: assets/people/namgyu.jpg
+  site: #
+
+- name: Jeongwon Ha
+  role: Visiting undergrad intern
+  since: Summer 2024
+  image: assets/people/jeongwon.jpg
   site: #
 
