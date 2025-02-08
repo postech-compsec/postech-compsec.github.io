@@ -22,12 +22,6 @@ Students:
   image: assets/people/minjae.png
   site: https://bxta.kr/
 
-- name: Namgyu Park
-  role: M.S+Ph.D.
-  since: Spring 2024
-  image: assets/people/namgyu.jpg
-  site: #
-
 Interns:
 - name: Chiheon Kim
   role: Undergrad intern
@@ -107,3 +101,10 @@ Alumni:
   since: Summer 2024
   image: assets/people/jeongwon.jpg
   site: #
+
+- name: Namgyu Park
+  role: Samsung SDS
+  since: Ph.D. (2025)
+  image: assets/people/namgyu.jpg
+  site: #
+
