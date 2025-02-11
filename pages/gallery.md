@@ -5,6 +5,13 @@ header: none
 permalink: /gallery/
 ---
 
+### Jan 23, 2025
+
+Prof. Seulbae Kim received an Excellence Prize in the "Student-Centered
+Teaching and Learning Model Competition".
+
+![20250123-01](/assets/gallery/20250123-01.jpg){: .gallery}
+
 ### Nov 21, 2024
 
 Our very first group photos!
