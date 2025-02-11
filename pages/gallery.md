@@ -13,6 +13,8 @@ Binary Analysis and Exploitation](/teaching/csed702c/2024fa).
 
 ![20250123-01](/assets/gallery/20250123-01.jpg){: .gallery}
 
+<br/>
+
 ### Nov 21, 2024
 
 Our very first group photos!
@@ -21,6 +23,7 @@ Our very first group photos!
 ![20241121-02](/assets/gallery/20241121-02.jpg){: .gallery}
 ![20241121-03](/assets/gallery/20241121-03.jpg){: .gallery}
 
+<br/>
 
 ### Oct 30, 2024
 
