@@ -8,7 +8,8 @@ permalink: /gallery/
 ### Jan 23, 2025
 
 Prof. Seulbae Kim received an Excellence Prize in the "Student-Centered
-Teaching and Learning Model Competition".
+Teaching and Learning Model Competition" for designing and offering [CSED702C:
+Binary Analysis and Exploitation](/teaching/csed702c/2024fa).
 
 ![20250123-01](/assets/gallery/20250123-01.jpg){: .gallery}
 
