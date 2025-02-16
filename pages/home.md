@@ -36,13 +36,13 @@ the cyber-physical safety of individuals who rely on computer-based systems
 in their daily lives.
 
 **NOTE:** If you are interested in working with us,
-      please contact [Seulbae](mailto:seulbae@postech.ac.kr) or [Sangdon](https://sangdon.github.io/)
+      please contact [Seulbae](mailto:seulbae@postech.ac.kr)
       with your **CV**, **transcript**, and details about the projects or ideas
       you would like to work on.
 
-
 ## News
 
+- **<tt>[2025/02/17]</tt>** Chiheon has started an M.S. program. Welcome aboard!
 - **<tt>[2025/01/06]</tt>** Jangseop, Kyungmin, Dongwan, Hanbi, Hyunsoo, and Jaeyoung have joined CompSec Lab. as undergrad interns. Welcome aboard!
 - **<tt>[2024/10/30]</tt>** Chiheon, Minki, Kihyun, and Taeyeon won a "Tech Award"
     (한국드론혁신협회장상) at <a href="http://www.hackthedrone.org/index.php">Hack the DRONE 2024</a> Finals as Team CompSec!

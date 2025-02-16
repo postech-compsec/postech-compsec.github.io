@@ -11,6 +11,12 @@ Adjunct Members:
   site: https://sangdon.github.io/
 
 Graduate Students:
+- name: Chiheon Kim
+  role: M.S.
+  since: Spring 2025
+  image: assets/people/chiheon.jpg
+  site: #
+
 - name: Jongsoo Han
   role: M.S.
   since: Fall 2024
@@ -24,12 +30,6 @@ Graduate Students:
   site: https://bxta.kr/
 
 Interns:
-- name: Chiheon Kim
-  role: Undergrad intern
-  since: Summer 2024
-  image: assets/people/chiheon.jpg
-  site: #
-
 - name: Kihyun Park
   role: Undergrad intern
   since: Summer 2024
