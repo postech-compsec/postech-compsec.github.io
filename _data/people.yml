@@ -96,6 +96,12 @@ Interns:
   image: assets/people/jangseop.jpg
   site: #
 
+- name: Jaewon Yu
+  role: Undergrad intern
+  since: Spring 2025
+  image: assets/people/jaewon.jpg
+  site: https://github.com/jae1u/
+
 Alumni:
 - name: Namgyu Park
   role: Samsung SDS

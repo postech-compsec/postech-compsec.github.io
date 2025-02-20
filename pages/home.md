@@ -42,6 +42,7 @@ in their daily lives.
 
 ## News
 
+- **<tt>[2025/02/17]</tt>** Jaewon have joined CompSec Lab as an undergrad intern. Welcom aboard!
 - **<tt>[2025/02/17]</tt>** Chiheon has started an M.S. program. Welcome aboard!
 - **<tt>[2025/01/06]</tt>** Jangseop, Kyungmin, Dongwan, Hanbi, Hyunsoo, and Jaeyoung have joined CompSec Lab. as undergrad interns. Welcome aboard!
 - **<tt>[2024/10/30]</tt>** Chiheon, Minki, Kihyun, and Taeyeon won a "Tech Award"
