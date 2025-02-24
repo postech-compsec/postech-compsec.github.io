@@ -29,4 +29,5 @@ Our very first group photos!
 
 Team CompSec at "Hack The Drone 2024" Finals!
 ![20241030-01](/assets/gallery/20241030-01.jpg){: .gallery}
+![20241030-02](/assets/gallery/20241030-02.jpg){: .gallery}
 
