@@ -1,5 +1,13 @@
+- title: "SOUNDBOOST: Effective RCA and Attack Detection for UAV via Acoustic Side-Channel (to appear)"
+  author: Haoran Wang and Zheng Yang and Sangdon Park and Yibin Yang and <b>Seulbae Kim</b> and Willian Lunardi and Martin Andreoni and Taesoo kim and Wenke Lee
+  venue: 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+  abbrev: DSN 2025
+  year: 2025
+  month: June
+  loc: Naples, Italy
+
 - title: "ACon²: Adaptive Conformal Consensus for Provable Blockchain Oracles"
-  author: Sangdon Park and Osbert Bastani and Taesoo Kim
+  author: <b>Sangdon Park</b> and Osbert Bastani and Taesoo Kim
   venue: 32nd USENIX Security Symposium
   abbrev: Security 2023
   year: 2023
@@ -10,7 +18,7 @@
   code: "https://github.com/sslab-gatech/ACon2"
 
 - title: "RoboFuzz: Fuzzing Robotic Systems over Robot Operating System (ROS) for Finding Correctness Bugs"
-  author: Seulbae Kim and Taesoo Kim
+  author: <b>Seulbae</b> Kim and Taesoo Kim
   venue: 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
   abbrev: ESEC/FSE 2022
   year: 2022
@@ -21,7 +29,7 @@
   code: "https://github.com/sslab-gatech/robofuzz"
 
 - title: "DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing"
-  author: Seulbae Kim and Major Liu and Junghwan Rhee and Yuseok Jeon and Yonghwi Kwon and Chung Hwan Kim
+  author: <b>Seulbae Kim</b> and Major Liu and Junghwan Rhee and Yuseok Jeon and Yonghwi Kwon and Chung Hwan Kim
   venue: 29th ACM Conference on Computer and Communications Security
   abbrev: CCS 2022
   year: 2022
@@ -32,7 +40,7 @@
   code: "https://gitlab.com/s3lab-code/public/drivefuzz"
 
 - title: "Riding the IoT Wave with VFuzz: Discovering Security Flaws in Smart Home"
-  author: Carlos Nkuba and Seulbae Kim and Sven Dietrich and Heejo Lee
+  author: Carlos Nkuba and <b>Seulbae Kim</b> and Sven Dietrich and Heejo Lee
   venue: IEEE Access, Vol. 10
   year: 2021
   month: December
@@ -40,7 +48,7 @@
   code: "https://github.com/CNK2100/VFuzz-public"
 
 - title: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
-  author: Seunghoon Woo and Sunghan Park and Seulbae Kim and Heejo Lee and Hakjoo Oh
+  author: Seunghoon Woo and Sunghan Park and <b>Seulbae Kim</b> and Heejo Lee and Hakjoo Oh
   venue: 43rd International Conference on Software Engineering
   abbrev: ICSE 2021
   year: 2021
@@ -51,14 +59,14 @@
   code: "https://github.com/WOOSEUNGHOON/Centris-public"
 
 - title: "Finding Bugs in File Systems with an Extensible Fuzzing Framework"
-  author: Seulbae Kim and Meng Xu and Sanidhya Kashyap and Jungyeon Yoon and Wen Xu and Taesoo Kim
+  author: <b>Seulbae Kim</b> and Meng Xu and Sanidhya Kashyap and Jungyeon Yoon and Wen Xu and Taesoo Kim
   venue: ACM Transactions on Storage, Vol. 16, No. 2, Article 10
   year: 2020
   month: May
   file: "kim:hydra-tos"
 
 - title: "Finding Semantic Bugs in File Systems with an Extensible Fuzzing Framework"
-  author: Seulbae Kim and Meng Xu and Sanidhya Kashyap and Jungyeon Yoon and Wen Xu and Taesoo Kim
+  author: <b>Seulbae Kim</b> and Meng Xu and Sanidhya Kashyap and Jungyeon Yoon and Wen Xu and Taesoo Kim
   venue: 27th ACM Symposium on Operating Systems Principles
   abbrev: SOSP 2019
   year: 2019
@@ -69,14 +77,14 @@
   code: "https://github.com/sslab-gatech/hydra"
 
 - title: "Software systems at risk: An empirical study of cloned vulnerabilities in practice"
-  author: Seulbae Kim and Taesoo Kim
+  author: <b>Seulbae Kim</b> and Heejo Lee
   venue: Computers & Security, Vol. 77
   year: 2018
   month: August
   file: "kim:vuddy-cose"
 
 - title: "VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery"
-  author: Seulbae Kim and Seunghoon Woo and Heejo Lee and Hakjoo Oh
+  author: <b>Seulbae Kim</b> and Seunghoon Woo and Heejo Lee and Hakjoo Oh
   venue: 38th IEEE Symposium on Security and Privacy
   abbrev: S&P 2017
   year: 2017
@@ -87,7 +95,7 @@
   code: "https://github.com/squizz617/vuddy"
 
 - title: "SIGMATA: Storage Integrity Guaranteeing Mechanism against Tampering Attempts for Video Event Data Recorders"
-  author: Hyuckmin Kwon and Seulbae Kim and Heejo Lee
+  author: Hyuckmin Kwon and <b>Seulbae Kim</b> and Heejo Lee
   venue: 7th International Multi-conference on Complexity, Informatics, and Cybernatics
   abbrev: IMCIC 2016
   year: 2016

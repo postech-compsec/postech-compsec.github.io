@@ -12,18 +12,8 @@ description: Template for team page.
 {{ content }}
 
 {% assign pubs = site.data.publications | group_by: "year" | uniq %}
-{% assign untitled = true %}
 {% for year_group in pubs %}
-  {% assign year_int = year_group.name | plus: 0 %}
-  {% if year_int < 2024 %}
-    {% if untitled == true %}
-      <h3 class="fw-bold">Before 2024</h3>
-      {% assign untitled = false %}
-    {% endif %}
-  {% else %}
-    <h3 class="fw-bold">{{ year_group.name }}</h3>
-  {% endif %}
-
+<!-- <h3 class="fw-bold">{{ year_group.name }}</h3> -->
   {% for paper in year_group.items %}
   <div class="publication lh-sm">
     <p class="h5 my-1">
