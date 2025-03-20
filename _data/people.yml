@@ -102,6 +102,12 @@ Interns:
   image: assets/people/jaewon.jpg
   site: https://github.com/jae1u/
 
+- name: Junwoong Doh
+  role: Visiting Undergrad intern
+  since: Spring 2025
+  image: assets/people/junwoong.jpg
+  site: https://github.com/dandb3/
+
 Alumni:
 - name: Namgyu Park
   role: Samsung SDS

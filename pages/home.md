@@ -42,21 +42,20 @@ in their daily lives.
 
 ## News
 
+- **<tt>[2025/03/05]</tt>** Junwoong have joined CompSec Lab as a visiting undergrad intern. Welcom aboard!
 - **<tt>[2025/02/17]</tt>** Jaewon have joined CompSec Lab as an undergrad intern. Welcom aboard!
 - **<tt>[2025/02/17]</tt>** Chiheon has started an M.S. program. Welcome aboard!
 - **<tt>[2025/01/06]</tt>** Jangseop, Kyungmin, Dongwan, Hanbi, Hyunsoo, and Jaeyoung have joined CompSec Lab. as undergrad interns. Welcome aboard!
-- **<tt>[2024/10/30]</tt>** Chiheon, Minki, Kihyun, and Taeyeon won a "Tech Award"
+- **<tt>[2024/10/30]</tt>** 🏆 Chiheon, Minki, Kihyun, and Taeyeon won a "Tech Award"
     (한국드론혁신협회장상) at <a href="http://www.hackthedrone.org/index.php">Hack the DRONE 2024</a> Finals as Team CompSec!
 - **<tt>[2024/09/30]</tt>** Taeyeon have joined CompSec Lab as an undergrad intern. Welcome aboard!
-- **<tt>[2024/09/08]</tt>** Team CompSec (Chiheon, Minki, Kihyun, and Taeyeon)
+- **<tt>[2024/09/08]</tt>** 🏆 Team CompSec (Chiheon, Minki, Kihyun, and Taeyeon)
     advances to the <a href="http://www.hackthedrone.org/index.php">Hack the DRONE 2024</a> Finals!
 - **<tt>[2024/08/23]</tt>** Jongsoo have joined CompSec Lab. Welcome aboard!
-- **<tt>[2024/08/11]</tt>** Chiheon achieved 9th place as team Cold Fusion at the
+- **<tt>[2024/08/11]</tt>** 🏆 Chiheon achieved 9th place as team Cold Fusion at the
     <a href="https://defcon.org/html/defcon-32/dc-32-index.html">DEF CON 32 CTF Finals</a>!
 - **<tt>[2024/06/24]</tt>** Jeongwon and Minki have joined CompSec Lab. as visiting undergrad interns. Welcome aboard!
 - **<tt>[2024/06/17]</tt>** Chiheon, Selim, Kihyun, and Young Seo have joined CompSec Lab. as undergrad interns. Welcome aboard!
-- **<tt>[2024/02/29]</tt>** Namgyu has joined CompSec Lab. Welcome aboard!
-- **<tt>[2024/02/13]</tt>** Minjae has joined CompSec Lab. Welcome aboard!
 - **<tt>[2024/02/01]</tt>** Computer Security Lab @POSTECH is established!
 
 <!-- - [Installation]({{ '/docs/installation/' | relative_url }}) -->
