@@ -42,8 +42,9 @@ in their daily lives.
 
 ## News
 
-- **<tt>[2025/03/05]</tt>** Junwoong have joined CompSec Lab as a visiting undergrad intern. Welcom aboard!
-- **<tt>[2025/02/17]</tt>** Jaewon have joined CompSec Lab as an undergrad intern. Welcom aboard!
+- **<tt>[2025/04/14]</tt>** 🏆 Chiheon, Taeyeon, Kyungmin, Jaeyoung, and Jaewon advances to the <a href="https://defcon.org/html/defcon-33/dc-33-index.html">DEF CON 33 CTF Finals</a> as members of team Cold Fusion!
+- **<tt>[2025/03/05]</tt>** Junwoong have joined CompSec Lab as a visiting undergrad intern. Welcome aboard!
+- **<tt>[2025/02/17]</tt>** Jaewon have joined CompSec Lab as an undergrad intern. Welcome aboard!
 - **<tt>[2025/02/17]</tt>** Chiheon has started an M.S. program. Welcome aboard!
 - **<tt>[2025/01/06]</tt>** Jangseop, Kyungmin, Dongwan, Hanbi, Hyunsoo, and Jaeyoung have joined CompSec Lab. as undergrad interns. Welcome aboard!
 - **<tt>[2024/10/30]</tt>** 🏆 Chiheon, Minki, Kihyun, and Taeyeon won a "Tech Award"

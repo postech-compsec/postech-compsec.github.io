@@ -5,6 +5,8 @@ header: none
 permalink: /gallery/
 ---
 
+## **Gallery**
+
 ### Jan 23, 2025
 
 Prof. Seulbae Kim received an Excellence Prize in the "Student-Centered
