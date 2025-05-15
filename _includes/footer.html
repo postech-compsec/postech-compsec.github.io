@@ -74,7 +74,7 @@
       {% endif %}
 
       {% for col in site.data.footer.columns %}
-        <div class="col-4">
+        <div class="col-lg-4">
           {{ col.description | markdownify }}
           {% if col.ptext %}
             {% for item in col.ptext %}
