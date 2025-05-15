@@ -4,6 +4,15 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description:
+    logos:
+    - src: /assets/logo/compsec-white.png
+      href: https://compsec.postech.ac.kr/
+    - src: /assets/logo/postech-white.png
+      href: https://www.postech.ac.kr/
+
+  - description:
+    ptext:
+    - Room 441, PIAI Bldg., 77 Cheongam-ro, Pohang-si, Gyeongbuk, Republic of Korea, Zip 37673
     links:
     - text: Department of Computer Science and Engineering
       href: https://cse.postech.ac.kr/
@@ -11,12 +20,6 @@ columns:
     - text: Pohang University of Science and Technology (POSTECH)
       href: https://www.postech.ac.kr/
       new_window: true
-
-  # - description: > # E.g. funding acknowledgement. Can be Markdown
-      # This project is made with ❤ for open source.
-      # See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      # to customize this text.
-    # links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml

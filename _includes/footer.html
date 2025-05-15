@@ -1,9 +1,6 @@
 <footer class="d-print-none">
   <div class="container">
     <div class="row">
-      #441 PIAI Bldg., 77 Cheongam-ro, Pohang-si, Gyeongbuk, Republic of Korea [37673]
-    </div>
-    <div class="row">
       {% if site.social %}
         <div class="col-lg">
           <ul class="list-inline">
@@ -77,8 +74,13 @@
       {% endif %}
 
       {% for col in site.data.footer.columns %}
-        <div class="col-lg">
+        <div class="col-4">
           {{ col.description | markdownify }}
+          {% if col.ptext %}
+            {% for item in col.ptext %}
+              <p>{{ item }}</p>
+            {% endfor %}
+          {% endif %}
 
           {% if col.links %}
             <ul class="fa-ul">
@@ -90,6 +92,17 @@
               {% endfor %}
             </ul>
           {% endif %}
+          {% if col.logos %}
+            <ul class="fa-ul">
+              {% for item in col.logos %}
+                <li>
+                  <a href="{{ item.href | relative_url }}" target="_blank"><img class=".img-fluid" src="{{ item.src | relative_url }}"></a>
+                </li>
+                </br>
+              {% endfor %}
+            </ul>
+          {% endif %}
+
         </div>
       {% endfor %}
     </div>
