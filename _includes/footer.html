@@ -74,11 +74,24 @@
       {% endif %}
 
       {% for col in site.data.footer.columns %}
-        <div class="col-lg-4">
+        {% if col.ptext %}
+        <div class="col-lg-6">
+        {% else if col.ltext %}
+        <div class="col-lg-3">
+        {% else %}
+        <div class="col-lg-3">
+        {% endif %}
+
           {{ col.description | markdownify }}
           {% if col.ptext %}
             {% for item in col.ptext %}
               <p>{{ item }}</p>
+            {% endfor %}
+          {% endif %}
+
+          {% if col.ltext %}
+            {% for item in col.ltext %}
+            <a href="{{ item.href | relative_url }}" target="_blank">{{ item.text }}</a>
             {% endfor %}
           {% endif %}
 
