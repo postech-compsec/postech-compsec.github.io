@@ -24,52 +24,28 @@ Graduate Students:
   site: #
 
 - name: Minjae Gwon
-  role: M.S.
+  role: M.S. (adjunct)
   since: Spring 2024
   image: assets/people/minjae.png
   site: https://bxta.kr/
 
 Interns:
-- name: Kihyun Park
+- name: Jaewon Yu
   role: Undergrad intern
-  since: Summer 2024
-  image: assets/people/kihyun.jpg
-  site: #
+  since: Spring 2025
+  image: assets/people/jaewon.jpg
+  site: https://github.com/jae1u/
 
-- name: Selim Oh
-  role: Undergrad intern
-  since: Summer 2024
-  image: assets/people/selim.jpg
-  site: #
-
-- name: Youngseo Seo
-  role: Undergrad intern
-  since: Summer 2024
-  image: assets/people/default.png
-  site: #
-
-- name: Minki Lee
-  role: Visiting undergrad intern
-  since: Summer 2024
-  image: assets/people/minki.jpg
-  site: https://github.com/leeminki02
-
-- name: Taeyeon Kim
-  role: Undergrad intern
-  since: Fall 2024
-  image: assets/people/taeyeon.jpg
-  site: #
+- name: Junwoong Doh
+  role: Visiting Undergrad intern
+  since: Spring 2025
+  image: assets/people/junwoong.jpg
+  site: https://github.com/dandb3/
 
 - name: Kyungmin Kim
   role: Undergrad intern
   since: Winter 2024
   image: assets/people/kyungmin.jpg
-  site: #
-
-- name: Dongwan Roh
-  role: Undergrad intern
-  since: Winter 2024
-  image: assets/people/default.png
   site: #
 
 - name: Hanbi Park
@@ -96,23 +72,41 @@ Interns:
   image: assets/people/jangseop.jpg
   site: #
 
-- name: Jaewon Yu
+- name: Taeyeon Kim
   role: Undergrad intern
-  since: Spring 2025
-  image: assets/people/jaewon.jpg
-  site: https://github.com/jae1u/
+  since: Fall 2024
+  image: assets/people/taeyeon.jpg
+  site: #
 
-- name: Junwoong Doh
-  role: Visiting Undergrad intern
-  since: Spring 2025
-  image: assets/people/junwoong.jpg
-  site: https://github.com/dandb3/
+- name: Selim Oh
+  role: Undergrad intern
+  since: Summer 2024
+  image: assets/people/selim.jpg
+  site: #
+
+- name: Youngseo Seo
+  role: Undergrad intern
+  since: Summer 2024
+  image: assets/people/default.png
+  site: #
+
+- name: Minki Lee
+  role: Visiting undergrad intern
+  since: Summer 2024
+  image: assets/people/minki.jpg
+  site: https://github.com/leeminki02
 
 Alumni:
-- name: Namgyu Park
-  role: Samsung SDS
-  since: Ph.D. (2025)
-  image: assets/people/namgyu.jpg
+- name: Dongwan Roh
+  role: Undergrad intern
+  since: Winter 2024
+  image: assets/people/default.png
+  site: #
+
+- name: Kihyun Park
+  role: Undergrad intern
+  since: Summer '24 - Fall '24
+  image: assets/people/kihyun.jpg
   site: #
 
 - name: Jeongwon Ha
