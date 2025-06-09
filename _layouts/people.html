@@ -25,12 +25,12 @@ description: Template for team page.
         {% if member.image %}
           <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
         {% endif %}
-        <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0">
+        <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0 mt-0">
           {{ member.name }}
         </p>
-        <p class="text-muted text-center mb-0">{{ member.role }}</p>
+        <p class="text-muted text-center mb-0 mt-0">{{ member.role }}</p>
         {% if member.since %}
-        <p class="fw-light small text-center">{{ member.since }}</p>
+        <p class="fw-light small text-center mb-0 mt-0">{{ member.since }}</p>
         {% endif %}
       </div>
     </div>

@@ -455,7 +455,8 @@ $stretched-link-z-index:                  1 !default;
 //
 // Style p element.
 
-$paragraph-margin-bottom:   1rem !default;
+$paragraph-margin-top:   0.5rem !default;
+$paragraph-margin-bottom:   0rem !default;
 
 
 // Grid breakpoints
@@ -619,7 +620,8 @@ $font-sizes: (
 // scss-docs-end font-sizes
 
 // scss-docs-start headings-variables
-$headings-margin-bottom:      $spacer * .5 !default;
+$headings-margin-top:      $spacer * .5 !default;
+$headings-margin-bottom:   $spacer * .25 !default;
 $headings-font-family:        null !default;
 $headings-font-style:         null !default;
 $headings-font-weight:        500 !default;
