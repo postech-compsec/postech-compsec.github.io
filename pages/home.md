@@ -42,6 +42,7 @@ in their daily lives.
 
 ## News
 
+- **<tt>[2025/06/16]</tt>** Woocheol and Gunha have joined CompSec Lab as undergrad interns. Welcome aboard!
 - **<tt>[2025/04/14]</tt>** 🏆 Chiheon, Taeyeon, Kyungmin, Jaeyoung, and Jaewon advances to the <a href="https://defcon.org/html/defcon-33/dc-33-index.html">DEF CON 33 CTF Finals</a> as members of team Cold Fusion!
 - **<tt>[2025/03/05]</tt>** Junwoong have joined CompSec Lab as a visiting undergrad intern. Welcome aboard!
 - **<tt>[2025/02/17]</tt>** Jaewon have joined CompSec Lab as an undergrad intern. Welcome aboard!
