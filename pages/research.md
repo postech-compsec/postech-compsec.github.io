@@ -34,7 +34,7 @@ We utilize and develop methods from:
 
 ### 1. Automated Vulnerability Discovery and Analysis
 
-![img](/assets/img/vulnerability.png){: .float-right .img-fluid style="max-width: 20% !important;"}
+![img](/assets/img/research-vulnerability.jpg){: .float-right .img-fluid style="max-width: 20% !important;"}
 
 We design and build techniques to automatically find deep bugs and
 vulnerabilities in complex software systems.
@@ -52,7 +52,7 @@ Current projects include:
 
 ### 2. Cyber-Physical System Security and Robustness
 
-![img](/assets/img/cps.png){: .float-right .img-fluid style="max-width: 20% !important;"}
+![img](/assets/img/research-cps.jpg){: .float-right .img-fluid style="max-width: 20% !important;"}
 
 We investigate new attack vectors and fortification techniques for
 cyber-physical systems such as robots, drones, and IoT devices.
@@ -71,7 +71,7 @@ Current projects include:
 
 ### 3. Side Channels, Protocols, and Beyond
 
-![img](/assets/img/protocol.png){: .float-right .img-fluid style="max-width: 20% !important;"}
+![img](/assets/img/research-protocol.jpg){: .float-right .img-fluid style="max-width: 20% !important;"}
 
 We explore techniques for analyzing systems and protocols where internals
 may not be fully visible.
@@ -86,7 +86,7 @@ Current projects include:
 
 ### 4. AI-related security
 
-![img](/assets/img/llm.png){: .float-right .img-fluid style="max-width: 20% !important;"}
+![img](/assets/img/research-llm.jpg){: .float-right .img-fluid style="max-width: 20% !important;"}
 
 We study vulnerabilities and novel applications of Large Language Models
 (LLMs) and AI in security-critical contexts.
@@ -101,7 +101,7 @@ Current projects include:
 
 ### 5. Building Secure System Foundations
 
-![img](/assets/img/testing.png){: .float-right .img-fluid style="max-width: 20% !important;"}
+![img](/assets/img/research-testing.jpg){: .float-right .img-fluid style="max-width: 20% !important;"}
 
 We pursue cutting-edge techniques and frameworks to improve the security,
 testing, and analysis of modern computing systems.
