@@ -72,12 +72,6 @@ Interns:
   image: assets/people/hyunsoo.jpg
   site: #
 
-- name: Jaeyoung Chun
-  role: Undergrad intern
-  since: Winter 2024
-  image: assets/people/default.png
-  site: #
-
 - name: Jangseop Choi
   role: Visiting undergrad intern
   since: Winter 2024
@@ -109,6 +103,12 @@ Interns:
   site: https://github.com/leeminki02
 
 Alumni:
+- name: Jaeyoung Chun
+  role: Undergrad intern
+  since: Winter '24 - Summer '24
+  image: assets/people/default.png
+  site: #
+
 - name: Dongwan Roh
   role: Undergrad intern
   since: Winter 2024
