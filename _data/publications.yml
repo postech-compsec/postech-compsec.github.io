@@ -6,6 +6,7 @@
   month: June
   loc: Naples, Italy
   file: "wang:soundboost"
+  slides: "wang:soundboost-slides"
 
 - title: "ACon²: Adaptive Conformal Consensus for Provable Blockchain Oracles"
   author: <b>Sangdon Park</b> and Osbert Bastani and Taesoo Kim
