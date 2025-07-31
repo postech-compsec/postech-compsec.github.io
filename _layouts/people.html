@@ -4,37 +4,49 @@ description: Template for team page.
 ---
 
 {% if page.team and site.data[page.people] %}
-  {% assign people = site.data[page.people] %}
+{% assign people = site.data[page.people] %}
 {% elsif site.data.people %}
-  {% assign people = site.data.people %}
+{% assign people = site.data.people %}
 {% endif %}
 
 {{ content }}
 
-{% for category in people %}
-{% if category[0] == "Alumni" %}
-<hr>
-{% endif %}
-<h3 class="fw-bold mt-2">{{ category[0] }}</h3>
+<div class="row mb-5">
+  {% for category in people %}
 
-<div class="d-flex flex-wrap">
-{% for member in category[1] %}
-  <a href="{{ member.site | relative_url }}" class="text-dark">
-    <div class="team-member">
-      <div class="flex-shrink-0 me-3">
-        {% if member.image %}
+  {% if category[0] == "Faculty" or category[0] == "Adjunct Members" %}
+  <div class="col-md-5"> <!-- put faculty and adjunct side-by-side -->
+  {% endif %}
+
+  {% if category[0] == "Alumni" %}
+  <hr>
+  {% endif %}
+  <h3 class="fw-bold mt-2">{{ category[0] }}</h3>
+
+  <div class="d-flex flex-wrap">
+    {% for member in category[1] %}
+    <a href="{{ member.site | relative_url }}" class="text-dark">
+      <div class="team-member">
+        <div class="flex-shrink-0 me-3">
+          {% if member.image %}
           <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
-        {% endif %}
-        <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0 mt-0">
+          {% endif %}
+          <p id="{{ member.name | strip | url_encode }}" class="text-center fw-bold mb-0 mt-0">
           {{ member.name }}
-        </p>
-        <p class="text-muted text-center mb-0 mt-0">{{ member.role }}</p>
-        {% if member.since %}
-        <p class="fw-light small text-center mb-0 mt-0">{{ member.since }}</p>
-        {% endif %}
+          </p>
+          <p class="text-muted text-center mb-0 mt-0">{{ member.role }}</p>
+          {% if member.since %}
+          <p class="fw-light small text-center mb-0 mt-0">{{ member.since }}</p>
+          {% endif %}
+        </div>
       </div>
-    </div>
-  </a>
-{% endfor %}
+    </a>
+    {% endfor %}
+  </div>
+
+  {% if category[0] == "Faculty" or category[0] == "Adjunct Members" %}
+  </div> <!-- close div class="col-md-6" -->
+  {% endif %}
+
+  {% endfor %}
 </div>
-{% endfor %}
