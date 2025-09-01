@@ -11,20 +11,38 @@ Adjunct Members:
   site: https://sangdon.github.io/
 
 Graduate Students:
+- name: Junwoong Doh
+  role: Ph.D. student
+  since: Fall 2025
+  image: assets/people/junwoong.jpg
+  site: https://github.com/dandb3/
+
+- name: Jangseop Choi
+  role: Ph.D. student
+  since: Fall 2025
+  image: assets/people/jangseop.jpg
+  site: #
+
+- name: Minki Lee
+  role: Ph.D. student
+  since: Fall 2025
+  image: assets/people/minki.jpg
+  site: https://github.com/leeminki02
+
 - name: Chiheon Kim
-  role: M.S.
+  role: M.S. student
   since: Spring 2025
   image: assets/people/chiheon.jpg
   site: #
 
 - name: Jongsoo Han
-  role: M.S.
+  role: M.S. student
   since: Fall 2024
   image: assets/people/jongsoo.jpg
   site: #
 
 - name: Minjae Gwon
-  role: M.S. (adjunct)
+  role: M.S. student (adjunct)
   since: Spring 2024
   image: assets/people/minjae.png
   site: https://bxta.kr/
@@ -48,12 +66,6 @@ Interns:
   image: assets/people/jaewon.jpg
   site: https://github.com/jae1u/
 
-- name: Junwoong Doh
-  role: Visiting Undergrad intern
-  since: Spring 2025
-  image: assets/people/junwoong.jpg
-  site: https://github.com/dandb3/
-
 - name: Kyungmin Kim
   role: Undergrad intern
   since: Winter 2024
@@ -70,12 +82,6 @@ Interns:
   role: Undergrad intern
   since: Winter 2024
   image: assets/people/hyunsoo.jpg
-  site: #
-
-- name: Jangseop Choi
-  role: Visiting undergrad intern
-  since: Winter 2024
-  image: assets/people/jangseop.jpg
   site: #
 
 - name: Taeyeon Kim
@@ -95,12 +101,6 @@ Interns:
   since: Summer 2024
   image: assets/people/default.png
   site: #
-
-- name: Minki Lee
-  role: Visiting undergrad intern
-  since: Summer 2024
-  image: assets/people/minki.jpg
-  site: https://github.com/leeminki02
 
 Alumni:
 - name: Jaeyoung Chun
