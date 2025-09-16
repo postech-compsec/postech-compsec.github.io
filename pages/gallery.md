@@ -29,8 +29,8 @@ Open-Source Security Tools_ at "IT Platform Security and Robustness Workshop".
 
 ### Aug 10, 2025
 
-Team Cold Fusion in action:
-Jaewon, Gunha, and Taeyeon in action during DEF CON CTF, Las Vegas
+Jaewon, Gunha, and Taeyeon (as team Cold Fusion) in action
+during DEF CON CTF, Las Vegas
 
 ![20250810-01](/assets/gallery/20250810-01.jpg){: .gallery}
 
