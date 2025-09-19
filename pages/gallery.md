@@ -7,6 +7,22 @@ permalink: /gallery/
 
 ## **Gallery**
 
+### Sep 18, 2025
+
+A glimpse into the moments at the CompSec Lab.
+
+![20250918-01](/assets/gallery/20250918-01.jpg){: .gallery}
+![20250918-02](/assets/gallery/20250918-02.jpg){: .gallery}
+![20250918-03](/assets/gallery/20250918-03.jpg){: .gallery}
+![20250918-04](/assets/gallery/20250918-04.jpg){: .gallery}
+![20250918-05](/assets/gallery/20250918-05.jpg){: .gallery}
+![20250918-06](/assets/gallery/20250918-06.jpg){: .gallery}
+![20250918-07](/assets/gallery/20250918-07.jpg){: .gallery}
+![20250918-08](/assets/gallery/20250918-08.jpg){: .gallery .left}
+![20250918-09](/assets/gallery/20250918-09.jpg){: .gallery .right}
+
+<br/>
+
 
 ### Sep 12, 2025
 
