@@ -29,6 +29,7 @@ h2 {
 }
 
 .modal-body {
+  text-align: center;
   padding: 0;
 }
 
@@ -38,6 +39,10 @@ h2 {
 
 .modal-open {
   padding-right: 0 !important;
+}
+
+.img-limit-height {
+  max-height: 90vh;
 }
 
 @media (min-width: 768px) {
