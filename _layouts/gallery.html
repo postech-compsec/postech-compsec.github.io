@@ -1,9 +1,37 @@
 ---
 layout: default
-description: gallery layout
+description: gallery with modal windows
 ---
-
-<link rel="stylesheet" href={{ "/assets/css/gallery.css" }}>
+<link rel="stylesheet" href="{{ "/assets/css/gallery.css" | relative_url }}">
 
 {{ content }}
 
+{% for section in site.data.gallery %}
+  <div class="gallery-section">
+    <h3>{{ section.date }}</h3>
+    <p>{{ section.description }}</p>
+
+    <div class="gallery-container">
+      {% for image in section.images %}
+        <a href="#" data-bs-toggle="modal" data-bs-target="#modal-{{ forloop.index }}-{{ section.date | slugify }}">
+          <img src="{{ image.url | relative_url }}" alt="{{ image.alt }}" class="gallery-thumbnail"/>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+  <br/>
+{% endfor %}
+
+{% for section in site.data.gallery %}
+  {% for image in section.images %}
+    <div class="modal fade" id="modal-{{ forloop.index }}-{{ section.date | slugify }}" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+          <div class="modal-body">
+            <img src="{{ image.url | relative_url }}" class="img-fluid" alt="{{ image.alt }}">
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+{% endfor %}
