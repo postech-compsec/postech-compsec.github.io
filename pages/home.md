@@ -4,11 +4,52 @@ layout: default
 title: Computer Security Lab @POSTECH
 header: none
 permalink: /
+home_images:
+  - src: "/assets/gallery/20250918-01.jpg"
+    alt: "2025.09.18 Group Photo"
+  - src: "/assets/gallery/20250918-02.jpg"
+    alt: "2025.09.18 Group Photo"
+  - src: "/assets/gallery/20250918-03.jpg"
+    alt: "2025.09.18 Group Photo"
+  - src: "/assets/gallery/20241121-01.jpg"
+    alt: "2024.11.21 Group Photo"
 ---
 
 ![CompSec Logo](/assets/logo/compsec-main.png)
+<br>
 
-![Group Photo](/assets/gallery/20241121-01.jpg){: width="90%" }
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    {% for image in page.home_images %}
+      <button
+        type="button"
+        data-bs-target="#carouselExampleIndicators"
+        data-bs-slide-to="{{ forloop.index0 }}"
+        {% if forloop.first %}class="active" aria-current="true"{% endif %}
+        aria-label="Slide {{ forloop.index }}"
+      ></button>
+    {% endfor %}
+  </div>
+
+  <div class="carousel-inner">
+    {% for image in page.home_images %}
+      <div class="carousel-item {% if forloop.first %}active{% endif %}">
+        <img src="{{ image.src | relative_url }}" class="d-block w-100" alt="{{ image.alt }}">
+      </div>
+    {% endfor %}
+  </div>
+
+  <!-- uncomment below if you want prev/next buttons -->
+  <!--
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button> -->
+</div>
 
 ## Computer Security Lab at POSTECH
 
