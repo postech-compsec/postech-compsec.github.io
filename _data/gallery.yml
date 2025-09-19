@@ -1,0 +1,47 @@
+- date: "Sep 18, 2025"
+  description: "A glimpse into the moments at the CompSec Lab."
+  images:
+    - url: "/assets/gallery/20250918-01.jpg"
+    - url: "/assets/gallery/20250918-02.jpg"
+    - url: "/assets/gallery/20250918-03.jpg"
+    - url: "/assets/gallery/20250918-04.jpg"
+    - url: "/assets/gallery/20250918-05.jpg"
+    - url: "/assets/gallery/20250918-06.jpg"
+    - url: "/assets/gallery/20250918-07.jpg"
+    - url: "/assets/gallery/20250918-08.jpg"
+    - url: "/assets/gallery/20250918-09.jpg"
+
+- date: "Sep 12, 2025"
+  description: "Outdoor quadrotor drone experiment with a side of Jjajangmyeon."
+  images:
+    - url: "/assets/gallery/20250912-01.jpg"
+    - url: "/assets/gallery/20250912-02.jpg"
+    - url: "/assets/gallery/20250912-03.jpg"
+
+- date: "Aug 28, 2025"
+  description: "Seulbae's presentation on the Security Threats and countermeasures in Linux."
+  images:
+    - url: "/assets/gallery/20250828-01.jpg"
+
+- date: "Aug 10, 2025"
+  description: "Jaewon, Gunha, and Taeyeon (as team Cold Fusion) in action during DEF CON CTF, Las Vegas."
+  images:
+    - url: "/assets/gallery/20250810-01.jpg"
+
+- date: "Jan 23, 2025"
+  description: "Seulbae received an Excellence Prize in the 'Student-Centered Teaching and Learning Model Competition' for designing and offering CSED702C: Binary Analysis and Exploitation."
+  images:
+    - url: "/assets/gallery/20250123-01.jpg"
+
+- date: "Nov 21, 2024"
+  description: "Our very first group photos!"
+  images:
+    - url: "/assets/gallery/20241121-01.jpg"
+    - url: "/assets/gallery/20241121-02.jpg"
+    - url: "/assets/gallery/20241121-03.jpg"
+
+- date: "Oct 30, 2024"
+  description: "Team CompSec at 'Hack The Drone 2024' Finals!"
+  images:
+    - url: "/assets/gallery/20241030-01.jpg"
+    - url: "/assets/gallery/20241030-02.jpg"
