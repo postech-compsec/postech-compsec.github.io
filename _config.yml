@@ -1,6 +1,6 @@
 # SITE SETTINGS
-title: CompSecLab                        # Title in top navigation bar (navbar) and <head>
-author: CompSecLab                    # Used for copyright statement in footer
+title: CompSec Lab                        # Title in top navigation bar (navbar) and <head>
+author: CompSec Lab                    # Used for copyright statement in footer
 baseurl: ""                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
