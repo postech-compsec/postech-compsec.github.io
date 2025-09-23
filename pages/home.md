@@ -83,7 +83,7 @@ in their daily lives.
 
 ## News
 
-- **<tt>[2025/09/01]</tt>** Minki, Jangseop, and Junwoong have started a Ph.D. program. Jimin joined as an undergrad intern. Welcome aboard!
+- **<tt>[2025/09/01]</tt>** Minki, Jangseop, and Junwoong have started a Ph.D. program. Jimin and Jaehwan joined as undergrad interns. Welcome aboard!
 - **<tt>[2025/08/10]</tt>** Team Cold Fusion placed 10th at DEF CON 33 CTF Finals!
 - **<tt>[2025/06/16]</tt>** Woocheol and Gunha have joined CompSec Lab as undergrad interns. Welcome aboard!
 - **<tt>[2025/04/14]</tt>** 🏆 Chiheon, Taeyeon, Kyungmin, Jaeyoung, and Jaewon advances to the <a href="https://defcon.org/html/defcon-33/dc-33-index.html">DEF CON 33 CTF Finals</a> as members of team Cold Fusion!
