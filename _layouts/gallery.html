@@ -14,7 +14,9 @@ description: gallery with modal windows
     <div class="gallery-container">
       {% for image in section.images %}
         <a href="#" data-bs-toggle="modal" data-bs-target="#modal-{{ forloop.index }}-{{ section.date | slugify }}">
-          <img src="{{ image.url | relative_url }}" alt="{{ image.alt }}" class="gallery-thumbnail"/>
+          {% assign basename = image.url | split: '/' | last | split: '.' | first %}
+          {% assign thumb_webp_path = '/assets/gallery/thumbnails/' | append: basename | append: '.webp' %}
+          <img src="{{ thumb_webp_path | relative_url }}" alt="{{ image.alt }}" class="gallery-thumbnail"/>
         </a>
       {% endfor %}
     </div>
@@ -28,7 +30,7 @@ description: gallery with modal windows
       <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
           <div class="modal-body">
-            <img src="{{ image.url | relative_url }}" class="img-fluid img-limit-height" alt="{{ image.alt }}">
+            <img src="{{ image.url | relative_url }}" loading="lazy" decoding="async" class="img-fluid img-limit-height" alt="{{ image.alt }}">
           </div>
         </div>
       </div>
