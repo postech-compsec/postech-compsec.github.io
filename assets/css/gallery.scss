@@ -18,7 +18,6 @@ h2 {
 
 .gallery-thumbnail {
   width: 100%;
-  // aspect-ratio: 1 / 1;
   object-fit: cover;
   cursor: pointer;
 }
@@ -45,21 +44,8 @@ h2 {
   max-height: 90vh;
 }
 
-@media (min-width: 768px) {
-  .gallery-container a {
-    width: calc(33.333%);
-    padding: 0.5%;
-  }
-}
-
-@media (max-width: 767px) {
-  .gallery-container a {
-    width: 100%;
-  }
-
-  .gallery-thumbnail {
-    height: auto;
-    aspect-ratio: auto;
-    margin-bottom: 1em;
-  }
+.gallery-container a {
+  width: calc(33.333%);
+  padding: 0.5%;
+  outline: none;
 }
