@@ -34,7 +34,7 @@ def generate_thumbnails():
                     else:
                         img = img.convert('RGB')
                     thumb = ImageOps.fit(img, THUMB_SIZE, Image.Resampling.LANCZOS)                    
-                    thumb.save(thumb_path, format='WEBP', quality=100)
+                    thumb.save(thumb_path, format='WEBP', quality=85)
             except Exception as e:
                 print(f"Could not process {file_path.name}: {e}")
 
