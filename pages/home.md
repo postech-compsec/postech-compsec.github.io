@@ -83,6 +83,7 @@ in their daily lives.
 
 ## News
 
+- **<tt>[2025/11/01]</tt>** 🏆 Team RHCP (Chiheon, Minki, Jangseop, and Junwoong) advances to the <a href="https://acdc.ai.kr/">2025 ACDC</a> Finals!
 - **<tt>[2025/09/01]</tt>** Minki, Jangseop, and Junwoong have started a Ph.D. program. Jimin and Jaehwan joined as undergrad interns. Welcome aboard!
 - **<tt>[2025/08/10]</tt>** Team Cold Fusion placed 10th at DEF CON 33 CTF Finals!
 - **<tt>[2025/06/16]</tt>** Woocheol and Gunha have joined CompSec Lab as undergrad interns. Welcome aboard!
