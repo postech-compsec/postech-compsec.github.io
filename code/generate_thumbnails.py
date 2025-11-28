@@ -6,8 +6,8 @@ from pathlib import Path
 from PIL import Image, ImageOps
 
 # --- configurations ---
-SOURCE_DIR = Path("assets/gallery")
-THUMB_DIR = Path("assets/gallery/thumbnails")
+SOURCE_DIR = Path("../assets/gallery")
+THUMB_DIR = Path("../assets/gallery/thumbnails")
 THUMB_SIZE = (800, 800)
 IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png']
 # ------------
