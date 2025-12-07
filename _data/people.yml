@@ -108,13 +108,13 @@ Interns:
   image: assets/people/selim.jpg
   site: #
 
+Alumni:
 - name: Youngseo Seo
   role: Undergrad intern
-  since: Summer 2024
+  since: Summer '24 - Spring '25
   image: assets/people/default.png
   site: #
 
-Alumni:
 - name: Jaeyoung Chun
   role: Undergrad intern
   since: Winter '24 - Summer '24
@@ -123,7 +123,7 @@ Alumni:
 
 - name: Dongwan Roh
   role: Undergrad intern
-  since: Winter 2024
+  since: Winter '24
   image: assets/people/default.png
   site: #
 
@@ -135,7 +135,7 @@ Alumni:
 
 - name: Jeongwon Ha
   role: Visiting undergrad intern
-  since: Summer 2024
+  since: Summer '24
   image: assets/people/jeongwon.jpg
   site: #
 
