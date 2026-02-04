@@ -52,3 +52,5 @@ understanding of the topics through guided, hands-on CTF-style lab challenges.
   > "I really enjoyed this course and I am very thankful that I got to be
      exposed to the foundational concepts of binary analysis."
 
+  > "Very good course with interesting topics covered and hands on experience in labs.
+     Good starting point for CTF competitions."
