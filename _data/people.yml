@@ -48,12 +48,6 @@ Interns:
   image: assets/people/jiesung.jpg
   site: https://github.com/js-daniel72
 
-- name: Jaehwan Kim
-  role: Undergrad intern
-  since: Fall 2025
-  image: assets/people/jaehwan.jpg
-  site: https://github.com/carotinoid
-
 - name: Jimin Jung
   role: Undergrad intern
   since: Fall 2025
@@ -109,6 +103,12 @@ Interns:
   site: #
 
 Alumni:
+- name: Jaehwan Kim
+  role: Undergrad intern
+  since: Fall 2025
+  image: assets/people/jaehwan.jpg
+  site: https://github.com/carotinoid
+
 - name: Youngseo Seo
   role: Undergrad intern
   since: Summer '24 - Spring '25
