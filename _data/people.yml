@@ -11,6 +11,24 @@ Adjunct Members:
   site: https://sangdon.github.io/
 
 Graduate Students:
+- name: Dongwan Kang
+  role: M.S. student
+  since: Spring 2025
+  image: assets/people/default.png
+  site: #
+
+- name: Woocheol Kim
+  role: Ph.D. student
+  since: Spring 2026
+  image: assets/people/woocheol.jpg
+  site: #
+
+- name: Kyungmin Kim
+  role: M.S. student
+  since: Spring 2026
+  image: assets/people/kyungmin.jpg
+  site: #
+
 - name: Junwoong Doh
   role: Ph.D. student
   since: Fall 2025
@@ -60,23 +78,11 @@ Interns:
   image: assets/people/gunha.jpg
   site: #
 
-- name: Woocheol Kim
-  role: Undergrad intern
-  since: Summer 2025
-  image: assets/people/woocheol.jpg
-  site: #
-
 - name: Jaewon Yu
   role: Undergrad intern
   since: Spring 2025
   image: assets/people/jaewon.jpg
   site: https://github.com/jae1u/
-
-- name: Kyungmin Kim
-  role: Undergrad intern
-  since: Winter 2024
-  image: assets/people/kyungmin.jpg
-  site: #
 
 - name: Hanbi Park
   role: Undergrad intern

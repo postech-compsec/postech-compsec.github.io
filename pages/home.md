@@ -83,6 +83,7 @@ in their daily lives.
 
 ## News
 
+- **<tt>[2026/02/23]</tt>** Woocheol has started a Ph.D. program. Kyungmin and Dongwan has started an M.S. program. Welcome aboard!
 - **<tt>[2026/01/02]</tt>** Jiesung have joined CompSec Lab as an undergrad intern. Welcome aboard!
 - **<tt>[2025/12/02]</tt>** 🏆 Chiheon, Minki, Jangseop, and Junwoong won a "Special Award" (KIISC President's Award) at <a href="https://acdc.ai.kr/">2025 ACDC</a> Finals as Team RHCP! [[News](https://www.kisa.or.kr/402/form?postSeq=2558&page=1)]
 - **<tt>[2025/11/01]</tt>** 🏆 Team RHCP (Chiheon, Minki, Jangseop, and Junwoong) advances to the <a href="https://acdc.ai.kr/">2025 ACDC</a> Finals!
