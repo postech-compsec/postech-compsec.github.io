@@ -1,3 +1,11 @@
+- title: "SwarmBox: A Plug-and-Play Drone Swarm Framework for Streamlined Development and Comprehensive Analysis (to appear)"
+  author: Minki Lee and Seojin Lee and <b>Seulbae Kim</b>
+  venue: 34th ACM International Conference on the Foundations of Software Engineering
+  abbrev: FSE 2026
+  year: 2026
+  month: July
+  loc: Montreal, Canada
+
 - title: "Detecting Compiler-Introduced Security Bugs via IR Mutation and Coverage-Guided Fuzzing (to appear)"
   author: Selim Oh and <b>Seulbae Kim</b>
   venue: 19th European Workshop on Systems Security
