@@ -87,30 +87,27 @@ in their daily lives.
 
 - **<tt>[2026/03/25]</tt>** 🎉 SwarmBox has been accepted to <a href="https://conf.researchr.org/track/fse-2026/fse-2026-research-papers">FSE 2026</a>. Congrats Minki!
 - **<tt>[2026/03/07]</tt>** 🎉 CISBFuzz has been accepted to <a href="https://eurosec-workshop.github.io/">EuroSec 2026</a>. Congrats Selim!
-- **<tt>[2026/02/23]</tt>** Woocheol has started a Ph.D. program. Kyungmin and Dongwan has started an M.S. program. Welcome aboard!
-- **<tt>[2026/01/02]</tt>** Jiesung have joined CompSec Lab as an undergrad intern. Welcome aboard!
+- **<tt>[2026/02/23]</tt>** Woocheol has started a Ph.D. program. Kyungmin and Dongwan have started an M.S. program. Welcome aboard!
+- **<tt>[2026/01/02]</tt>** Jiesung has joined CompSec Lab as an undergrad intern. Welcome aboard!
 - **<tt>[2025/12/02]</tt>** 🏆 Chiheon, Minki, Jangseop, and Junwoong won a "Special Award" (KIISC President's Award) at <a href="https://acdc.ai.kr/">2025 ACDC</a> Finals as Team RHCP! [[News](https://www.kisa.or.kr/402/form?postSeq=2558&page=1)]
 - **<tt>[2025/11/01]</tt>** 🏆 Team RHCP (Chiheon, Minki, Jangseop, and Junwoong) advances to the <a href="https://acdc.ai.kr/">2025 ACDC</a> Finals!
 - **<tt>[2025/09/01]</tt>** Minki, Jangseop, and Junwoong have started a Ph.D. program. Jimin and Jaehwan joined as undergrad interns. Welcome aboard!
 - **<tt>[2025/08/10]</tt>** Team Cold Fusion placed 10th at DEF CON 33 CTF Finals!
 - **<tt>[2025/06/16]</tt>** Woocheol and Gunha have joined CompSec Lab as undergrad interns. Welcome aboard!
 - **<tt>[2025/04/14]</tt>** 🏆 Chiheon, Taeyeon, Kyungmin, Jaeyoung, and Jaewon advances to the <a href="https://defcon.org/html/defcon-33/dc-33-index.html">DEF CON 33 CTF Finals</a> as members of team Cold Fusion!
-- **<tt>[2025/03/05]</tt>** Junwoong have joined CompSec Lab as a visiting undergrad intern. Welcome aboard!
-- **<tt>[2025/02/17]</tt>** Jaewon have joined CompSec Lab as an undergrad intern. Welcome aboard!
+- **<tt>[2025/03/05]</tt>** Junwoong has joined CompSec Lab as a visiting undergrad intern. Welcome aboard!
+- **<tt>[2025/02/17]</tt>** Jaewon has joined CompSec Lab as an undergrad intern. Welcome aboard!
 - **<tt>[2025/02/17]</tt>** Chiheon has started an M.S. program. Welcome aboard!
 - **<tt>[2025/01/06]</tt>** Jangseop, Kyungmin, Dongwan, Hanbi, Hyunsoo, and Jaeyoung have joined CompSec Lab. as undergrad interns. Welcome aboard!
 - **<tt>[2024/10/30]</tt>** 🏆 Chiheon, Minki, Kihyun, and Taeyeon won a "Tech Award"
     (한국드론혁신협회장상) at <a href="http://www.hackthedrone.org/index.php">Hack the DRONE 2024</a> Finals as Team CompSec!
-- **<tt>[2024/09/30]</tt>** Taeyeon have joined CompSec Lab as an undergrad intern. Welcome aboard!
+- **<tt>[2024/09/30]</tt>** Taeyeon has joined CompSec Lab as an undergrad intern. Welcome aboard!
 - **<tt>[2024/09/08]</tt>** 🏆 Team CompSec (Chiheon, Minki, Kihyun, and Taeyeon)
     advances to the <a href="http://www.hackthedrone.org/index.php">Hack the DRONE 2024</a> Finals!
-- **<tt>[2024/08/23]</tt>** Jongsoo have joined CompSec Lab. Welcome aboard!
+- **<tt>[2024/08/23]</tt>** Jongsoo has joined CompSec Lab. Welcome aboard!
 - **<tt>[2024/08/11]</tt>** 🏆 Chiheon achieved 9th place as team Cold Fusion at the
     <a href="https://defcon.org/html/defcon-32/dc-32-index.html">DEF CON 32 CTF Finals</a>!
 - **<tt>[2024/06/24]</tt>** Jeongwon and Minki have joined CompSec Lab. as visiting undergrad interns. Welcome aboard!
 - **<tt>[2024/06/17]</tt>** Chiheon, Selim, Kihyun, and Young Seo have joined CompSec Lab. as undergrad interns. Welcome aboard!
 - **<tt>[2024/02/01]</tt>** Computer Security Lab @POSTECH is established!
 
-<!-- - [Installation]({{ '/docs/installation/' | relative_url }}) -->
-<!-- - [Configuration]({{ '/docs/configuration/' | relative_url }}) -->
-<!-- - [Markdown]({{ '/docs/markdown/' | relative_url }}) -->
