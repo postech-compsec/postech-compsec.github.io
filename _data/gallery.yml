@@ -1,3 +1,15 @@
+- date: "Apr 02, 2026"
+  description: "Enjoying cherry blossoms before getting back to vulnerability hunting."
+  images:
+    - url: "/assets/gallery/20260402-01.jpg"
+    - url: "/assets/gallery/20260402-02.jpg"
+    - url: "/assets/gallery/20260402-03.jpg"
+    - url: "/assets/gallery/20260402-04.jpg"
+    - url: "/assets/gallery/20260402-05.jpg"
+    - url: "/assets/gallery/20260402-06.jpg"
+    - url: "/assets/gallery/20260402-07.jpg"
+    - url: "/assets/gallery/20260402-08.jpg"
+
 - date: "Nov 27, 2025"
   description: "After the CSE Byte Night Event."
   images:
