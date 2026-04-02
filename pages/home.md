@@ -5,6 +5,8 @@ title: Computer Security Lab @POSTECH
 header: none
 permalink: /
 home_images:
+  - src: "/assets/gallery/20260402-02.jpg"
+    alt: "2026.04.02 Group Photo"
   - src: "/assets/gallery/20250918-01.jpg"
     alt: "2025.09.18 Group Photo"
   - src: "/assets/gallery/20250918-02.jpg"
