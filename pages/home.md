@@ -83,7 +83,8 @@ in their daily lives.
 
 ## News
 
-- **<tt>[2026/03/25]</tt>** 🎉 SwarmBox has been accepted to <a href="https://conf.researchr.org/track/fse-2026/fse-2026-research-papers">FSE 2026</a>!
+- **<tt>[2026/03/25]</tt>** 🎉 SwarmBox has been accepted to <a href="https://conf.researchr.org/track/fse-2026/fse-2026-research-papers">FSE 2026</a>. Congrats Minki!
+- **<tt>[2026/03/07]</tt>** 🎉 CISBFuzz has been accepted to <a href="https://eurosec-workshop.github.io/">EuroSec 2026</a>. Congrats Selim!
 - **<tt>[2026/02/23]</tt>** Woocheol has started a Ph.D. program. Kyungmin and Dongwan has started an M.S. program. Welcome aboard!
 - **<tt>[2026/01/02]</tt>** Jiesung have joined CompSec Lab as an undergrad intern. Welcome aboard!
 - **<tt>[2025/12/02]</tt>** 🏆 Chiheon, Minki, Jangseop, and Junwoong won a "Special Award" (KIISC President's Award) at <a href="https://acdc.ai.kr/">2025 ACDC</a> Finals as Team RHCP! [[News](https://www.kisa.or.kr/402/form?postSeq=2558&page=1)]

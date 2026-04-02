@@ -13,6 +13,7 @@
   year: 2026
   month: April
   loc: Edinburgh, Scotland, UK
+  file: "oh:cisbfuzz"
 
 - title: "SOUNDBOOST: Effective RCA and Attack Detection for UAV via Acoustic Side-Channel"
   author: Haoran Wang and Zheng Yang and Sangdon Park and Yibin Yang and Seulbae Kim and Willian Lunardi and Martin Andreoni and Taesoo kim and Wenke Lee
