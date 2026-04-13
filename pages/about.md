@@ -20,7 +20,6 @@ permalink: /about/
   * [포항공대 인공지능연구원](https://naver.me/5cTdNyMx) 434호
   * Room 434, [PIAI Building, POSTECH](https://maps.app.goo.gl/nBKS22Tfh6Wg4akL6)
 
-#### Sangdon's office
-  * [포항공대 RIST](https://naver.me/GdJiu2Dc) 4409호
-  * Room 4409, [RIST Building, POSTECH](https://maps.app.goo.gl/oNxy2d8T9vA5qHEu6)
+#### Links
+  * [GitHub](https://github.com/postech-compsec)
 
