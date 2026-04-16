@@ -12,7 +12,7 @@
   menu:
   - text: Open-Sourced Projects
   - text: SwarmBox
-    href: /projects/swarmbox/
+    href: /swarmbox/
   # - text: Configuration
     # href: /docs/configuration/
   # - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
