@@ -20,7 +20,7 @@ cryptography, system and network security. Students gain practical experience
 through hands-on lab assignments and a team-based final project.
 
 * Audience: Senior-level undergraduate students
-* Syllabus & materials: [2024sp](/teaching/csed415/2024sp), [2025sp](/teaching/csed415/2025sp), [2026sp](#)
+* Syllabus & materials: [2024sp](/teaching/csed415/2024sp), [2025sp](/teaching/csed415/2025sp), [2026sp](/teaching/csed415/2026sp)
 * Course reviews:
   > "보안쪽에, 그리고 시스템쪽에 조금이라도 관심이 있다면 꼭 들어봤으면 하는
      강의. 대략적으로만 알던 지식을 구체적으로 알 수 있게 해준 강의"
