@@ -85,6 +85,7 @@ in their daily lives.
 
 ## News
 
+- **<tt>[2026/05/08]</tt>** 🎉 GAP has been accepted to <a href="https://www.usenix.org/conference/vehiclesec26">VehicleSec 2026</a>. Congrats Jongsoo!
 - **<tt>[2026/03/25]</tt>** 🎉 SwarmBox has been accepted to <a href="https://conf.researchr.org/track/fse-2026/fse-2026-research-papers">FSE 2026</a>. Congrats Minki!
 - **<tt>[2026/03/07]</tt>** 🎉 CISBFuzz has been accepted to <a href="https://eurosec-workshop.github.io/">EuroSec 2026</a>. Congrats Selim!
 - **<tt>[2026/02/23]</tt>** 👋 Woocheol has started a Ph.D. program. Kyungmin and Dongwan have started an M.S. program. Welcome aboard!

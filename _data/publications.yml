@@ -1,3 +1,11 @@
+- title: "Blind Spot in Sensor Fusion: Exploiting an Architectural Vulnerability to Hijack and Precisely Control UAVs (to appear)"
+  author: Jongsoo Han and Seulbae Kim
+  venue: 4th USENIX Symposium on Vehicle Security and Privacy
+  abbrev: VehicleSec 2026
+  year: 2026
+  month: August
+  loc: Maltimore, MD, USA
+
 - title: "SwarmBox: A Plug-and-Play Drone Swarm Framework for Streamlined Development and Comprehensive Analysis (to appear)"
   author: Minki Lee and Seojin Lee and Seulbae Kim
   venue: 34th ACM International Conference on the Foundations of Software Engineering
