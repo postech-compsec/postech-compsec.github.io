@@ -15,6 +15,7 @@
   loc: Montreal, Canada
   file: "lee:swarmbox"
   code: "https://github.com/postech-compsec/swarmbox"
+  site: "/swarmbox"
 
 - title: "Detecting Compiler-Introduced Security Bugs via IR Mutation and Coverage-Guided Fuzzing"
   author: Selim Oh and Seulbae Kim
@@ -68,6 +69,7 @@
   file: "kim:drivefuzz"
   slides: "kim:drivefuzz-slides"
   code: "https://gitlab.com/s3lab-code/public/drivefuzz"
+  site: "https://drivefuzz.s3lab.io/"
 
 - title: "Riding the IoT Wave with VFuzz: Discovering Security Flaws in Smart Home"
   author: Carlos Nkuba and Seulbae Kim and Sven Dietrich and Heejo Lee
