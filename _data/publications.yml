@@ -1,3 +1,11 @@
+- title: "Blind Spot in Sensor Fusion: Exploiting an Architectural Vulnerability to Hijack and Precisely Control UAVs (to appear)"
+  author: Jongsoo Han and Seulbae Kim
+  venue: 4th USENIX Symposium on Vehicle Security and Privacy
+  abbrev: VehicleSec 2026
+  year: 2026
+  month: August
+  loc: Maltimore, MD, USA
+
 - title: "SwarmBox: A Plug-and-Play Drone Swarm Framework for Streamlined Development and Comprehensive Analysis (to appear)"
   author: Minki Lee and Seojin Lee and Seulbae Kim
   venue: 34th ACM International Conference on the Foundations of Software Engineering
@@ -7,6 +15,7 @@
   loc: Montreal, Canada
   file: "lee:swarmbox"
   code: "https://github.com/postech-compsec/swarmbox"
+  site: "/swarmbox"
 
 - title: "Detecting Compiler-Introduced Security Bugs via IR Mutation and Coverage-Guided Fuzzing"
   author: Selim Oh and Seulbae Kim
@@ -60,6 +69,7 @@
   file: "kim:drivefuzz"
   slides: "kim:drivefuzz-slides"
   code: "https://gitlab.com/s3lab-code/public/drivefuzz"
+  site: "https://drivefuzz.s3lab.io/"
 
 - title: "Riding the IoT Wave with VFuzz: Discovering Security Flaws in Smart Home"
   author: Carlos Nkuba and Seulbae Kim and Sven Dietrich and Heejo Lee

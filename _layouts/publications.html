@@ -38,6 +38,10 @@ description: Template for team page.
       {% endif %}
       {% if paper.code %}
       <a href="{{ paper.code }}"><i class="fa-regular fa-file-code"></i> code</a>
+        &nbsp;&nbsp;
+      {% endif %}
+      {% if paper.site %}
+      <a href="{{ paper.site }}"><i class="fa-regular fa-bookmark"></i> site</a>
       {% endif %}
     </p>
   </div>
