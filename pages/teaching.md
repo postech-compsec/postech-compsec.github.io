@@ -20,7 +20,7 @@ cryptography, system and network security. Students gain practical experience
 through hands-on lab assignments and a team-based final project.
 
 * Audience: Senior-level undergraduate students
-* Syllabus & materials: [2024sp](/teaching/csed415/2024sp), [2025sp](/teaching/csed415/2025sp), [2026sp](/teaching/csed415/2026sp)
+* Syllabus & materials: [Spring 2024](/teaching/csed415/2024sp), [Spring 2025](/teaching/csed415/2025sp), [Spring 2026](/teaching/csed415/2026sp)
 * Course reviews:
   > "보안쪽에, 그리고 시스템쪽에 조금이라도 관심이 있다면 꼭 들어봤으면 하는
      강의. 대략적으로만 알던 지식을 구체적으로 알 수 있게 해준 강의"
@@ -32,7 +32,9 @@ through hands-on lab assignments and a team-based final project.
   > "Professor is skilled at teaching, enthusiastic, and close to students."
 
 
-### CSED702C: Binary Analysis and Exploitation (바이너리 분석 및 공격)
+### CSED559: Software Vulnerability Analysis and Exploitation (소프트웨어 취약점 분석 및 공격)
+
+Previously offered as CSED702C: Binary Analysis and Exploitation.
 
 This course covers **practical techniques** for analyzing binaries and crafting
 real-world exploits. Topics include binary analysis, vulnerability discovery,
@@ -40,7 +42,7 @@ exploit development, and mitigation strategies. Students apply and deepen their
 understanding of the topics through guided, hands-on CTF-style lab challenges.
 
 * Audience: Graduate students interested in advanced software security
-* Syllabus & materials: [2024fa](/teaching/csed702c/2024fa), [2025fa](/teaching/csed702c/2025fa)
+* Syllabus & materials: [Fall 2024](/teaching/csed702c/2024fa), [Fall 2025](/teaching/csed702c/2025fa)
 * 🏆 **Excellence Prize**, POSTECH Student-Centered Teaching and Learning Model Competition (Fall 2024)
 * Course reviews:
   > "system 분야에 관심이 있다면 꼭 한번 들어보면 좋을 것 같은, 좋은 수업이다."
