@@ -84,24 +84,6 @@ Interns:
   image: assets/people/jaewon.jpg
   site: https://github.com/jae1u/
 
-- name: Hanbi Park
-  role: Undergrad intern
-  since: Winter 2024
-  image: assets/people/hanbi.jpg
-  site: #
-
-- name: Hyunsoo Lee
-  role: Undergrad intern
-  since: Winter 2024
-  image: assets/people/hyunsoo.jpg
-  site: #
-
-- name: Taeyeon Kim
-  role: Undergrad intern
-  since: Fall 2024
-  image: assets/people/taeyeon.jpg
-  site: #
-
 - name: Selim Oh
   role: Undergrad intern
   since: Summer 2024
@@ -109,6 +91,25 @@ Interns:
   site: #
 
 Alumni:
+
+- name: Hanbi Park
+  role: Undergrad intern
+  since: Winter '24 - Spring '26
+  image: assets/people/hanbi.jpg
+  site: #
+
+- name: Hyunsoo Lee
+  role: Undergrad intern
+  since: Winter '24 - Spring '26
+  image: assets/people/hyunsoo.jpg
+  site: #
+
+- name: Taeyeon Kim
+  role: Undergrad intern
+  since: Fall '24 - Spring '26
+  image: assets/people/taeyeon.jpg
+  site: #
+
 - name: Jiesung Jung
   role: Undergrad intern
   since: Winter '25 - Spring '26
@@ -117,7 +118,7 @@ Alumni:
 
 - name: Jaehwan Kim
   role: Undergrad intern
-  since: Fall 2025
+  since: Fall '25
   image: assets/people/jaehwan.jpg
   site: https://github.com/carotinoid
 
