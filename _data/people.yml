@@ -91,18 +91,6 @@ Alumni:
   image: assets/people/hasung.jpg
   site: #
 
-- name: Hanbi Park
-  role: Undergrad intern
-  since: Winter '24 - Spring '26
-  image: assets/people/hanbi.jpg
-  site: #
-
-- name: Hyunsoo Lee
-  role: Undergrad intern
-  since: Winter '24 - Spring '26
-  image: assets/people/hyunsoo.jpg
-  site: #
-
 - name: Taeyeon Kim
   role: Undergrad intern
   since: Fall '24 - Spring '26
@@ -114,6 +102,18 @@ Alumni:
   since: Winter '25 - Spring '26
   image: assets/people/jiesung.jpg
   site: https://github.com/js-daniel72
+
+- name: Hanbi Park
+  role: Undergrad intern
+  since: Winter '24 - Winter '25
+  image: assets/people/hanbi.jpg
+  site: #
+
+- name: Hyunsoo Lee
+  role: Undergrad intern
+  since: Winter '24 - Winter '25
+  image: assets/people/hyunsoo.jpg
+  site: #
 
 - name: Jaehwan Kim
   role: Undergrad intern
