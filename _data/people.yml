@@ -60,12 +60,6 @@ Graduate Students:
   site: #
 
 Interns:
-- name: Hasung Jo
-  role: Research intern
-  since: Spring 2026
-  image: assets/people/hasung.jpg
-  site: #
-
 - name: Jimin Jung
   role: Undergrad intern
   since: Fall 2025
@@ -91,6 +85,11 @@ Interns:
   site: #
 
 Alumni:
+- name: Hasung Jo
+  role: Research intern
+  since: Spring '26
+  image: assets/people/hasung.jpg
+  site: #
 
 - name: Hanbi Park
   role: Undergrad intern
