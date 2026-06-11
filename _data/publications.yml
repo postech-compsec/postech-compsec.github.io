@@ -5,6 +5,8 @@
   year: 2026
   month: August
   loc: Baltimore, MD, USA
+  file: "han:gap"
+  code: "https://github.com/postech-compsec/GAP"
 
 - title: "SwarmBox: A Plug-and-Play Drone Swarm Framework for Streamlined Development and Comprehensive Analysis (to appear)"
   author: Minki Lee and Seojin Lee and Seulbae Kim
