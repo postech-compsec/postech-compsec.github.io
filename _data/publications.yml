@@ -1,3 +1,11 @@
+- title: "HAPTCHA: Eyes-Free Haptic CAPTCHA in Mobile Environments: Design Principle, Security Evaluation, and User Experience"
+  author: Duhong Kweon and Dajin Lee and Seulbae Kim and Seungmoon Choi
+  venue: The 39th Annual ACM Symposium on User Interface Software and Technology
+  abbrev: UIST 2026
+  year: 2026
+  month: November
+  loc: Detroit, MI, USA
+
 - title: "Blind Spot in Sensor Fusion: Exploiting an Architectural Vulnerability to Hijack and Precisely Control UAVs (to appear)"
   author: Jongsoo Han and Seulbae Kim
   venue: 4th USENIX Symposium on Vehicle Security and Privacy
