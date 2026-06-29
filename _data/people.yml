@@ -60,6 +60,24 @@ Graduate Students:
   site: #
 
 Interns:
+- name: Eugene Jung
+  role: Visiting Undergrad intern
+  since: Summer 2026
+  image: assets/people/eugene.jpg
+  site: https://github.com/EGMin-Jeong
+
+- name: Chansol Park
+  role: Undergrad intern
+  since: Summer 2026
+  image: assets/people/chansol.jpg
+  site: #
+
+- name: Minchan Kim
+  role: Undergrad intern
+  since: Summer 2026
+  image: assets/people/default.png
+  site: #
+
 - name: Jimin Jung
   role: Undergrad intern
   since: Fall 2025
