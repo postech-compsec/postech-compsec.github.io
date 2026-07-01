@@ -16,7 +16,7 @@
   file: "han:gap"
   code: "https://github.com/postech-compsec/GAP"
 
-- title: "SwarmBox: A Plug-and-Play Drone Swarm Framework for Streamlined Development and Comprehensive Analysis (to appear)"
+- title: "SwarmBox: A Plug-and-Play Drone Swarm Framework for Streamlined Development and Comprehensive Analysis"
   author: Minki Lee and Seojin Lee and Seulbae Kim
   venue: 34th ACM International Conference on the Foundations of Software Engineering
   abbrev: FSE 2026
