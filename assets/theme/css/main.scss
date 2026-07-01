@@ -21,9 +21,9 @@ $custom_footer_color: $default_footer_color {{ site.colors.footer }};
 
 // We then select the last element of the list:
 // custom color if defined, default color if undefined
-$custom_link_color: nth($custom_link_color, -1);
-$custom_banner_color: nth($custom_banner_color, -1);
-$custom_footer_color: nth($custom_footer_color, -1);
+$custom_link_color: nth($custom_link_color, length($custom_link_color));
+$custom_banner_color: nth($custom_banner_color, length($custom_banner_color));
+$custom_footer_color: nth($custom_footer_color, length($custom_footer_color));
 
 // Set to default color if custom color is an invalid color value
 @if type-of($custom_link_color) != color { $custom_link_color: $default_link_color; }
