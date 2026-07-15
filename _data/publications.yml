@@ -26,6 +26,7 @@
   file: "lee:swarmbox"
   code: "https://github.com/postech-compsec/swarmbox"
   site: "/swarmbox"
+  slides: "lee:swarmbox-slides"
 
 - title: "Detecting Compiler-Introduced Security Bugs via IR Mutation and Coverage-Guided Fuzzing"
   author: Selim Oh and Seulbae Kim
