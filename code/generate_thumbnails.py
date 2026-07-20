@@ -6,16 +6,17 @@ from pathlib import Path
 from PIL import Image, ImageOps
 
 # --- configurations ---
-SOURCE_DIR = Path("../assets/gallery")
-THUMB_DIR = Path("../assets/gallery/thumbnails")
+REPO_DIR   = Path(__file__).resolve().parent.parent
+SOURCE_DIR = REPO_DIR / "assets" / "gallery"
+THUMB_DIR  = SOURCE_DIR / "thumbnails"
+
 THUMB_SIZE = (800, 800)
 IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png']
 # ------------
 
 def generate_thumbnails():
-    
     THUMB_DIR.mkdir(parents=True, exist_ok=True)
-        
+
     for file_path in SOURCE_DIR.iterdir():
         if file_path.is_file() and file_path.suffix.lower() in IMAGE_EXTENSIONS:
             thumb_path = THUMB_DIR / file_path.with_suffix('.webp').name
@@ -42,3 +43,4 @@ def generate_thumbnails():
 
 if __name__ == "__main__":
     generate_thumbnails()
+
