@@ -44,6 +44,27 @@ h2 {
   max-height: 90vh;
 }
 
+// Make the modal image as wide as the page's main content container.
+.modal-dialog.modal-lg {
+  width: 100%;
+}
+
+@media (min-width: 576px) {
+  .modal-dialog.modal-lg { max-width: 540px; }
+}
+@media (min-width: 768px) {
+  .modal-dialog.modal-lg { max-width: 720px; }
+}
+@media (min-width: 992px) {
+  .modal-dialog.modal-lg { max-width: 960px; }
+}
+@media (min-width: 1200px) {
+  .modal-dialog.modal-lg { max-width: 1140px; }
+}
+@media (min-width: 1400px) {
+  .modal-dialog.modal-lg { max-width: 1320px; }
+}
+
 .gallery-container a {
   width: calc(33.333%);
   padding: 0.5%;
