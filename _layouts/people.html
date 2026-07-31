@@ -35,7 +35,11 @@ description: Template for team page.
           {{ member.name }}
           </p>
           <p class="text-muted text-center mb-0 mt-0">{{ member.role }}</p>
-          {% if member.since %}
+          {% if category[0] == "Alumni" %}
+            {% if member.job %}
+              <p class="fw-light small text-center mb-0 mt-0">{{ member.job }}</p>
+            {% endif %}
+          {% else if member.since %}
           <p class="fw-light small text-center mb-0 mt-0">{{ member.since }}</p>
           {% endif %}
         </div>

@@ -53,12 +53,6 @@ Graduate Students:
   image: assets/people/chiheon.jpg
   site: #
 
-- name: Jongsoo Han
-  role: M.S. student
-  since: Fall 2024
-  image: assets/people/jongsoo.jpg
-  site: #
-
 Interns:
 - name: Youngwoo Kim
   role: Undergrad intern
@@ -109,6 +103,13 @@ Interns:
   site: #
 
 Alumni:
+- name: Jongsoo Han
+  role: M.S. 2026
+  since: Fall 2024
+  image: assets/people/jongsoo.jpg
+  site: #
+
+Alumni (Undergraduate):
 - name: Hasung Jo
   role: Research intern
   since: Spring '26
