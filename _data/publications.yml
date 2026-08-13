@@ -6,7 +6,7 @@
   month: November
   loc: Detroit, MI, USA
 
-- title: "Blind Spot in Sensor Fusion: Exploiting an Architectural Vulnerability to Hijack and Precisely Control UAVs (to appear)"
+- title: "Blind Spot in Sensor Fusion: Exploiting an Architectural Vulnerability to Hijack and Precisely Control UAVs"
   author: Jongsoo Han and Seulbae Kim
   venue: 4th USENIX Symposium on Vehicle Security and Privacy
   abbrev: VehicleSec 2026
