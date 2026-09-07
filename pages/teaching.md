@@ -42,7 +42,7 @@ exploit development, and mitigation strategies. Students apply and deepen their
 understanding of the topics through guided, hands-on CTF-style lab challenges.
 
 * Audience: Graduate students interested in advanced software security
-* Syllabus & materials: [Fall 2024](/teaching/csed702c/2024fa), [Fall 2025](/teaching/csed702c/2025fa)
+* Syllabus & materials: [Fall 2024](/teaching/csed702c/2024fa), [Fall 2025](/teaching/csed702c/2025fa), [Fall 2026](#)
 * 🏆 **Excellence Prize**, POSTECH Student-Centered Teaching and Learning Model Competition (Fall 2024)
 * Course reviews:
   > "system 분야에 관심이 있다면 꼭 한번 들어보면 좋을 것 같은, 좋은 수업이다."
@@ -56,3 +56,17 @@ understanding of the topics through guided, hands-on CTF-style lab challenges.
 
   > "Very good course with interesting topics covered and hands on experience in labs.
      Good starting point for CTF competitions."
+
+---
+
+We also teach an introductory programming course for first-year students:
+
+### CSED101: Programming and Problem Solving (프로그래밍과 문제해결)
+This course introduces the **fundamentals of programming and computational
+problem solving** using Python. Students learn core programming concepts and
+develop systematic approaches to solving computational problems through
+hands-on programming exercises.
+
+* Audience: First-year undergraduate students
+* Syllabus & materials: [Fall 2026](#)
+
