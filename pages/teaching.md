@@ -42,7 +42,7 @@ exploit development, and mitigation strategies. Students apply and deepen their
 understanding of the topics through guided, hands-on CTF-style lab challenges.
 
 * Audience: Graduate students interested in advanced software security
-* Syllabus & materials: [Fall 2024](/teaching/csed702c/2024fa), [Fall 2025](/teaching/csed702c/2025fa), [Fall 2026](#)
+* Syllabus & materials: [Fall 2024](/teaching/csed702c/2024fa), [Fall 2025](/teaching/csed702c/2025fa), [Fall 2026](/teaching/csed559/2026fa)
 * 🏆 **Excellence Prize**, POSTECH Student-Centered Teaching and Learning Model Competition (Fall 2024)
 * Course reviews:
   > "system 분야에 관심이 있다면 꼭 한번 들어보면 좋을 것 같은, 좋은 수업이다."
