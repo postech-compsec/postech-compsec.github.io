@@ -85,6 +85,7 @@ in their daily lives.
 
 ## News
 
+- **<tt>[2025/09/07]</tt>** 👋 Juyoung has joined CompSec Lab as undergrad interns. Welcome aboard!
 - **<tt>[2025/06/29]</tt>** 👋 Minchan, Chansol, Eugene, and Youngwoo have joined CompSec Lab as undergrad interns. Welcome aboard!
 - **<tt>[2026/06/27]</tt>** 🎉 HAPTCHA has been accepted to <a href="https://uist.acm.org/2026/">UIST 2026</a>.
 - **<tt>[2026/05/08]</tt>** 🎉 GAP has been accepted to <a href="https://www.usenix.org/conference/vehiclesec26">VehicleSec 2026</a>. Congrats Jongsoo!

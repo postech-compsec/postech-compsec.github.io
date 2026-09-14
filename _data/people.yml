@@ -50,6 +50,12 @@ Graduate Students:
 Interns:
 - name: Youngwoo Kim
   role: Undergrad intern
+  since: Fall 2026
+  image: assets/people/juyoung.jpg
+  site: #
+
+- name: Youngwoo Kim
+  role: Undergrad intern
   since: Summer 2026
   image: assets/people/youngwoo.jpg
   site: https://github.com/yeowook
@@ -96,6 +102,12 @@ Interns:
   image: assets/people/selim.jpg
   site: #
 
+- name: Hanbi Park
+  role: Undergrad intern
+  since: Winter 2024
+  image: assets/people/hanbi.jpg
+  site: #
+
 Alumni:
 - name: Jongsoo Han
   role: M.S. 2026
@@ -121,12 +133,6 @@ Alumni (Undergraduate):
   since: Winter '25 - Spring '26
   image: assets/people/jiesung.jpg
   site: https://github.com/js-daniel72
-
-- name: Hanbi Park
-  role: Undergrad intern
-  since: Winter '24 - Winter '25
-  image: assets/people/hanbi.jpg
-  site: #
 
 - name: Hyunsoo Lee
   role: Undergrad intern
