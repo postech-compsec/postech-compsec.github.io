@@ -1,0 +1,250 @@
+{
+  "course": "CSED559: Software Vulnerability Analysis and Exploitation",
+  "term": "Fall 2026",
+  "termStart": "2026-09-08",
+  "termEnd": "2026-12-22",
+  "meetingDays": ["Tue", "Thu"],
+  "meetingTime": "11:00 AM - 12:15 PM",
+  "location": "Room 106, Science Building II",
+  "schedule": [
+    {
+      "date": "2026-09-08",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 1, "title": "Intro" }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 2, "title": "x86 and GDB" },
+        { "type": "lab_release", "lab": 1 }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 3, "title": "Review of Lab 01" },
+        { "type": "lab_deadline", "lab": 1 }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 4, "title": "x64, Anti-Debugging, and Decompiler" },
+        { "type": "lab_release", "lab": 2 }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 5, "title": "Review of Lab 02" },
+        { "type": "lab_deadline", "lab": 2 }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "day": "Thu",
+      "events": [
+        { "type": "holiday", "label": "Holiday (no class)" }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 6, "title": "Shellcode" },
+        { "type": "lab_release", "lab": 3 }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 7, "title": "TA Session" }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 8, "title": "Review of Lab 03" },
+        { "type": "lab_deadline", "lab": 3 }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 9, "title": "Stack Buffer Overflows" },
+        { "type": "lab_release", "lab": 4 }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 10, "title": "Review of Lab 04" },
+        { "type": "lab_deadline", "lab": 4 }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 11, "title": "Flag and Pwntools" },
+        { "type": "lab_release", "lab": 5 }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 12, "title": "Review of Lab 05" },
+        { "type": "lab_deadline", "lab": 5 }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 13, "title": "Stack Smashing Protector" },
+        { "type": "lab_release", "lab": 6 }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 14, "title": "Review of Lab 06" },
+        { "type": "lab_deadline", "lab": 6 }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "day": "Thu",
+      "events": [
+        { "type": "exam", "label": "Midterm Exam" }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 15, "title": "Review of Midterm Exam, Flipped Lab Introduction" }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 16, "title": "NX and ASLR" },
+        { "type": "lab_release", "lab": 7 }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 17, "title": "Review of Lab 07" },
+        { "type": "lab_deadline", "lab": 7 }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 18, "title": "Format String Bugs" },
+        { "type": "lab_release", "lab": 8 }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 19, "title": "Review of Lab 08" },
+        { "type": "lab_deadline", "lab": 8 }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 20, "title": "Return-Oriented Programming" },
+        { "type": "lab_release", "lab": 9 }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 21, "title": "Review of Lab 09" },
+        { "type": "lab_deadline", "lab": 9 }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 22, "title": "Logical Errors" },
+        { "type": "lab_release", "lab": 10 }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 23, "title": "Review of Lab 10" },
+        { "type": "lab_deadline", "lab": 10 }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "day": "Thu",
+      "events": [
+        { "type": "holiday", "label": "Holiday (no class)" }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 24, "title": "Heap" },
+        { "type": "lab_release", "lab": 11 }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 25, "title": "Fuzzing" }
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "day": "Tue",
+      "events": [
+        { "type": "lecture", "number": 26, "title": "Review of Lab 11" },
+        { "type": "lab_deadline", "lab": 11 }
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "day": "Thu",
+      "events": [
+        { "type": "lecture", "number": 27, "title": "Other Issues and Next Steps" }
+      ]
+    },
+    {
+      "date": "2026-12-22",
+      "day": "Tue",
+      "events": [
+        { "type": "exam", "label": "Final Exam" }
+      ]
+    }
+  ]
+}
