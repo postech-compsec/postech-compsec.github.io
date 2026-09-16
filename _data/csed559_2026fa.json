@@ -3,6 +3,7 @@
   "term": "Fall 2026",
   "termStart": "2026-09-08",
   "termEnd": "2026-12-22",
+  "months": ["2026-09", "2026-10", "2026-11", "2026-12"],
   "meetingDays": ["Tue", "Thu"],
   "meetingTime": "11:00 AM - 12:15 PM",
   "location": "Room 106, Science Building II",

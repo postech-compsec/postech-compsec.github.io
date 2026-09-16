@@ -1,0 +1,215 @@
+---
+layout: default
+---
+{{ content }}
+
+<style>
+.cal {
+  width: 100%;
+  min-width: 36rem;
+  border-collapse: collapse;
+  table-layout: fixed;
+  margin-bottom: 1rem;
+}
+.cal th, .cal td {
+  border: 1px solid #e3e5e8;
+  width: 20%;
+  vertical-align: top;
+}
+.cal thead th {
+  background: #f5f6f7;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #6c757d;
+  padding: 0.35rem 0.25rem;
+  font-weight: 600;
+}
+.cal .cal-month th {
+  /* reuses the site's footer color ($footer: #6c757d) as the divider band */
+  background: #6c757d;
+  color: #fff;
+  text-align: left;
+  padding: 0.35rem 0.5rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+}
+.cal td {
+  height: 4.5rem;
+  padding: 0.3rem 0.35rem 0.4rem;
+}
+.cal td.off { background: #fafbfc; }
+.cal td.pad { background: #f2f3f5; border-color: #eceef0; }
+.cal .d {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #adb5bd;
+  margin-bottom: 0.2rem;
+}
+.cal td.class .d { color: #495057; }
+.cal .ev {
+  display: block;
+  font-size: 0.74rem;
+  line-height: 1.25;
+  padding: 0.2rem 0.35rem;
+  margin-bottom: 0.2rem;
+  border-radius: 3px;
+  border-left: 3px solid transparent;
+}
+.cal .ev:last-child { margin-bottom: 0; }
+/* Lecture: neutral gray, the default/most frequent entry type */
+.cal .lec { background: #eef0f1; border-left-color: #6c757d; color: #495057; }
+/* Lab release: a tint of the site's banner color ($custom_banner_color: #f57e3a), lighter than Exam's solid fill */
+.cal .rel { background: #fdeee3; border-left-color: #f57e3a; color: #ac5829; }
+/* Lab deadline: the site's link color ($custom_link_color: #c61065), for urgency */
+.cal .due { background: #f8e6f0; border-left-color: #c61065; color: #c61065; font-weight: 600; }
+/* Exam: solid banner color, same as the page header background and the .pemph highlight */
+.cal .exam { background: #f57e3a; border-left-color: #c4652e; color: #fff; font-weight: 600; }
+/* Holiday: a lighter, muted gray, italic to further set it apart from lecture entries */
+.cal .hol { background: #f1f0ee; border-left-color: #adb5bd; color: #868e96; font-style: italic; }
+.cal-legend {
+  font-size: 0.75rem;
+  color: #6c757d;
+  margin-bottom: 1rem;
+}
+.cal-legend .key {
+  display: inline-block;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 2px;
+  margin: 0 0.25rem 0 0.9rem;
+  vertical-align: -1px;
+}
+.cal-legend .key:first-child { margin-left: 0; }
+
+/* Class only ever meets Tue/Thu, so on narrow screens drop the empty
+   Mon/Wed/Fri columns instead of forcing horizontal scroll */
+@media (max-width: 576px) {
+  .cal { min-width: 0; }
+  .cal thead th:nth-child(1),
+  .cal thead th:nth-child(3),
+  .cal thead th:nth-child(5),
+  .cal td:nth-child(1),
+  .cal td:nth-child(3),
+  .cal td:nth-child(5) {
+    display: none;
+  }
+  .cal thead th:nth-child(2),
+  .cal thead th:nth-child(4),
+  .cal td:nth-child(2),
+  .cal td:nth-child(4) {
+    width: 50%;
+  }
+}
+</style>
+
+<p class="cal-legend">
+  <span class="key" style="background:#eef0f1;border-left:3px solid #6c757d"></span>Lecture
+  <span class="key" style="background:#fdeee3;border-left:3px solid #f57e3a"></span>Lab release
+  <span class="key" style="background:#f8e6f0;border-left:3px solid #c61065"></span>Lab deadline
+  <span class="key" style="background:#f57e3a"></span>Exam
+  <span class="key" style="background:#f1f0ee;border-left:3px solid #adb5bd"></span>No class
+</p>
+
+{% assign data = site.data[page.schedule_data] %}
+{% assign events = data.schedule %}
+
+{% comment %}
+  Display range: Monday of the week containing termStart, through the
+  Friday of the week containing termEnd. Computed via Unix-epoch
+  arithmetic (the site builds in a DST-free timezone, so +/- N*86400
+  always lands on the same wall-clock time N days later).
+{% endcomment %}
+{% assign term_start_epoch = data.termStart | date: "%s" | plus: 0 %}
+{% assign term_end_epoch = data.termEnd | date: "%s" | plus: 0 %}
+{% assign start_weekday = data.termStart | date: "%u" | plus: 0 %}
+{% assign start_back_days = start_weekday | minus: 1 %}
+{% assign start_back_secs = start_back_days | times: 86400 %}
+{% assign global_start_epoch = term_start_epoch | minus: start_back_secs %}
+{% assign end_weekday = data.termEnd | date: "%u" | plus: 0 %}
+{% assign end_fwd_days = 5 | minus: end_weekday %}
+{% assign end_fwd_secs = end_fwd_days | times: 86400 %}
+{% assign global_end_epoch = term_end_epoch | plus: end_fwd_secs %}
+
+<table class="cal">
+  <thead>
+    <tr><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th></tr>
+  </thead>
+  <tbody>
+  {% for month in data.months %}
+    {% assign month_first_str = month | append: "-01" %}
+    {% assign month_first_epoch = month_first_str | date: "%s" | plus: 0 %}
+    {% assign month_num = month_first_str | date: "%m" | plus: 0 %}
+    {% assign month_label = month_first_str | date: "%B %Y" %}
+
+    {% comment %} last day of month, via first day of next month minus a day {% endcomment %}
+    {% assign month_year = month_first_str | date: "%Y" | plus: 0 %}
+    {% if month_num == 12 %}
+      {% assign next_month_str = month_year | plus: 1 | append: "-01-01" %}
+    {% else %}
+      {% assign next_month_num = month_num | plus: 1 | prepend: "0" | slice: -2, 2 %}
+      {% assign next_month_str = month_year | append: "-" | append: next_month_num | append: "-01" %}
+    {% endif %}
+    {% assign next_month_epoch = next_month_str | date: "%s" | plus: 0 %}
+    {% assign month_last_epoch = next_month_epoch | minus: 86400 %}
+
+    {% comment %} clamp this month's week rows to the global display range {% endcomment %}
+    {% assign month_first_weekday = month_first_str | date: "%u" | plus: 0 %}
+    {% comment %}
+      Monday of the first display row for this month. If day 1 falls on
+      Sat/Sun, that week's Mon-Fri cells belong entirely to the previous
+      month, so the first row instead starts on the following Monday.
+    {% endcomment %}
+    {% if month_first_weekday == 6 %}
+      {% assign month_row_start_epoch = month_first_epoch | plus: 172800 %}
+    {% elsif month_first_weekday == 7 %}
+      {% assign month_row_start_epoch = month_first_epoch | plus: 86400 %}
+    {% else %}
+      {% assign month_first_back_days = month_first_weekday | minus: 1 %}
+      {% assign month_first_back_secs = month_first_back_days | times: 86400 %}
+      {% assign month_row_start_epoch = month_first_epoch | minus: month_first_back_secs %}
+    {% endif %}
+    {% if month_row_start_epoch < global_start_epoch %}
+      {% assign month_row_start_epoch = global_start_epoch %}
+    {% endif %}
+
+    {% assign month_last_str = month_last_epoch | date: "%Y-%m-%d" %}
+    {% assign month_last_weekday = month_last_str | date: "%u" | plus: 0 %}
+    {% assign month_last_fwd_days = 5 | minus: month_last_weekday %}
+    {% assign month_last_fwd_secs = month_last_fwd_days | times: 86400 %}
+    {% assign month_row_end_epoch = month_last_epoch | plus: month_last_fwd_secs %}
+    {% if month_row_end_epoch > global_end_epoch %}
+      {% assign month_row_end_epoch = global_end_epoch %}
+    {% endif %}
+
+    <tr class="cal-month"><th colspan="5">{{ month_label }}</th></tr>
+    {% assign week_epoch = month_row_start_epoch %}
+    {% for w in (1..20) %}
+      {% if week_epoch > month_row_end_epoch %}{% break %}{% endif %}
+      <tr>
+      {% assign day_epoch = week_epoch %}
+      {% for d in (1..5) %}
+        {% assign day_str = day_epoch | date: "%Y-%m-%d" %}
+        {% assign day_num = day_epoch | date: "%-d" %}
+        {% assign day_month = day_epoch | date: "%m" | plus: 0 %}
+        {% if day_month == month_num %}
+          {% assign day_events = events | where: "date", day_str %}
+          {% if day_events.size > 0 %}
+            {% assign entry = day_events.first %}
+            <td class="class"><span class="d">{{ day_num }}</span>{% for ev in entry.events %}{% case ev.type %}{% when "lecture" %}{% assign lec_num = ev.number %}{% if lec_num < 10 %}{% assign lec_num = lec_num | prepend: "0" %}{% endif %}<span class="ev lec">Lec {{ lec_num }}: {{ ev.title }}</span>{% when "lab_release" %}<span class="ev rel">Lab {{ ev.lab | prepend: "0" | slice: -2, 2 }} release</span>{% when "lab_deadline" %}<span class="ev due">Lab {{ ev.lab | prepend: "0" | slice: -2, 2 }} deadline</span>{% when "holiday" %}<span class="ev hol">{{ ev.label }}</span>{% when "exam" %}<span class="ev exam">{{ ev.label }}</span>{% endcase %}{% endfor %}</td>
+          {% else %}
+            <td class="off"><span class="d">{{ day_num }}</span></td>
+          {% endif %}
+        {% else %}
+          <td class="pad"></td>
+        {% endif %}
+        {% assign day_epoch = day_epoch | plus: 86400 %}
+      {% endfor %}
+      </tr>
+      {% assign week_epoch = week_epoch | plus: 604800 %}
+    {% endfor %}
+  {% endfor %}
+  </tbody>
+</table>
