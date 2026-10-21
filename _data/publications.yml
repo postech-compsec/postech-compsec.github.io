@@ -1,6 +1,14 @@
+- title: "SYMROS: Enabling Symbolic Execution for ROS 2 Robotic Systems (to appear)"
+  author: Jangseop Choi and Jongsoo Han and Seulbae Kim
+  venue: 49th International Conference on Software Engineering
+  abbrev: ICSE 2027
+  year: 2027
+  month: April
+  loc: Dublin, Ireland
+
 - title: "HAPTCHA: Eyes-Free Haptic CAPTCHA in Mobile Environments: Design Principle, Security Evaluation, and User Experience (to appear)"
   author: Duhong Kweon and Dajin Lee and Seulbae Kim and Seungmoon Choi
-  venue: The 39th Annual ACM Symposium on User Interface Software and Technology
+  venue: 39th Annual ACM Symposium on User Interface Software and Technology
   abbrev: UIST 2026
   year: 2026
   month: November
