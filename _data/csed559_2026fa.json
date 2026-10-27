@@ -121,8 +121,7 @@
       "date": "2026-10-27",
       "day": "Tue",
       "events": [
-        { "type": "lecture", "number": 14, "title": "Review of Lab 06" },
-        { "type": "lab_deadline", "lab": 6 }
+        { "type": "lecture", "number": 14, "title": "Review of Lab 06" }
       ]
     },
     {
@@ -136,7 +135,8 @@
       "date": "2026-11-03",
       "day": "Tue",
       "events": [
-        { "type": "lecture", "number": 15, "title": "Review of Midterm Exam, Flipped Lab Introduction" }
+        { "type": "lecture", "number": 15, "title": "Review of Midterm Exam, Flipped Lab Introduction" },
+        { "type": "lab_deadline", "lab": 6 }
       ]
     },
     {
