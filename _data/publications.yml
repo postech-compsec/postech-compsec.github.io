@@ -6,13 +6,14 @@
   month: April
   loc: Dublin, Ireland
 
-- title: "HAPTCHA: Eyes-Free Haptic CAPTCHA in Mobile Environments: Design Principle, Security Evaluation, and User Experience (to appear)"
+- title: "HAPTCHA: Eyes-Free Haptic CAPTCHA in Mobile Environments: Design Principle, Security Evaluation, and User Experience"
   author: Duhong Kweon and Dajin Lee and Seulbae Kim and Seungmoon Choi
   venue: 39th Annual ACM Symposium on User Interface Software and Technology
   abbrev: UIST 2026
   year: 2026
   month: November
   loc: Detroit, MI, USA
+  file: "kweon:haptcha"
 
 - title: "Blind Spot in Sensor Fusion: Exploiting an Architectural Vulnerability to Hijack and Precisely Control UAVs"
   author: Jongsoo Han and Seulbae Kim
